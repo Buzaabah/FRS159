@@ -21,21 +21,22 @@ In this cross-disciplinary seminar, students will embark on a journey to underst
 
 If you use this course material in your own teaching or research, please cite it as follows:
 
-#Wouter Haverals, _Introduction to Digital Humanities -- Spring 2024_, Princeton University, DOI: [10.5281/zenodo.11100458](https://doi.org/10.5281/zenodo.11100458), URL: [https://whaverals.github.io/IntroDH2024/](https://whaverals.github.io/IntroDH2024/), Accessed: {{ 'now' | date: "%Y-%m-%d" }}
+# Wouter Haverals, _Introduction to Digital Humanities -- Spring 2024_, Princeton University, DOI: [10.5281/zenodo.11100458](https://doi.org/10.5281/zenodo.11100458), URL: [https://whaverals.github.io/IntroDH2024/](https://whaverals.github.io/IntroDH2024/), Accessed: {{ 'now' | date: "%Y-%m-%d" }}
 
 
 ```bibtex
-@online{Coming soon}
+@online{Coming soon,
+}
 
 ```
-#@online{haverals_introduction_2024,
-	title = {Introduction to Digital Humanities – Spring 2024},
-	url = {https://whaverals.github.io/IntroDH2024/},
-	author = {Haverals, Wouter},
-	urldate = {{ 'now' | date: "%Y-%m-%d" }},
-	date = {2024},
-	doi = {10.5281/zenodo.11100458},
-}
+# @online{haverals_introduction_2024,
+#	title = {Introduction to Digital Humanities – Spring 2024},
+#	url = {https://whaverals.github.io/IntroDH2024/},
+#	author = {Haverals, Wouter},
+#	urldate = {{ 'now' | date: "%Y-%m-%d" }},
+#	date = {2024},
+#	doi = {10.5281/zenodo.11100458},
+# }
 
 
 
