@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Introduction to Digital Humanities
+title: Teaching Computers to Understand African Languages
 tagline: Course Website 
-description: Reading materials and assignments for the course Introduction to Digital Humanities, taught at Princeton University in the Spring of 2024.
-author: Wouter Haverals
-baseurl: '/IntroDH2024' # the subpath of your site, e.g. /blog
-url: 'https://github.com/WHaverals' # the base hostname & protocol for your site, e.g. http://example.com
+description: Reading materials and assignments for the course Teaching Computers to Understand African Languages, taught at Princeton University in the Fall 2024.
+author: Happy Buzaaba
+baseurl: '/FRS159' # the subpath of your site, e.g. /blog
+url: 'https://github.com/Buzaabah' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/favicon/logo-class-notext.png'
 favicon_ico: 'assets/favicon/class-logo.ico'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
