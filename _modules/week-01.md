@@ -6,10 +6,9 @@ In this module, we will take our time to become acquinted with the contours that
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label">Sep 5</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Part</span>
+    <span class="session-title">Session-1</span>
   </summary>
     <div markdown="1">
 
@@ -22,7 +21,7 @@ In this module, we will take our time to become acquinted with the contours that
   <summary class="session-summary">
     <span class="date-label">Sep 5</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Foundations</span>
+    <span class="session-title">Session-2</span>
   </summary>
   <div markdown="1">
 
