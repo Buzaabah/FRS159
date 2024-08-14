@@ -33,7 +33,7 @@ In this module, we will take our time to become acquinted with the contours that
 
 {% comment %}
 <!-- **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a> -->
-{% end comment %}
+{% endcomment %}
 
 </div>
 </details>
