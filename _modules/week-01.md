@@ -2,7 +2,7 @@
 title: Week 1 - Technology for African Languages, Why Technology for African Languages, Current state of Technology for African Languages 
 ---
 
-In this module, we will take our time to become acquinted with the contours that delineate the field known as Digital Humanities. We discuss what are the essential or minimal ingredients (if there are any), and critically examine various definitions. We traverse the landscape of Digital Humanities and explore how early definitions of the field differ from more recent attempts at defining it.
+In this module, we will have a high-level discussion about language technology i.e ChatGPT, Gemini, Llama etc, the current state of technology for African languages and, challenges facing the development of language technology for African Languages.
 
 <details>
   <summary class="session-summary">
