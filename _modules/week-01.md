@@ -27,10 +27,9 @@ In this module, we will take our time to become acquinted with the contours that
 
 - [Slides](https://docs.google.com/presentation/d/16s46g8lIl_FslspXJCGTc8nON9WJYWWt08FIDq6OChU/edit?usp=sharing)
 - Pre-Class Reflection:
-- - [Ife Adebara, Muhammad Abdul-Mageed. “Towards Afrocentric NLP for African Languages:Where We Are and Where We Can Go.”](https://aclanthology.org/2022.acl-long.265.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics Volume 1: Long Papers, pages 3814 - 3841.
-  - [Examine this website](https://whatisdigitalhumanities.com/), hit the _New Quote_-button a few times, and read the definition that appears. Some guiding questions:
-    - How do the definitions you encounter vary each time you refresh the page? What does this diversity tell you about the nature of Digital Humanities as a field? What are the commonalities between the definitions? What are the differences? Consider the role technology plays in these definitions. Is it merely a tool, or does it fundamentally reshape the humanities?
-  - [Kirschenbaum, Matthew. 2012. "What Is Digital Humanities and What’s It Doing in English Departments?"](https://app.perusall.com/courses/introdh24/kirschenbaum_2012_what-is-digital-humanities-and-what-s-it-doing-in-english-departments) In _Debates in the Digital Humanities_, 3–11. University of Minnesota Press.
+- [Ife Adebara, Muhammad Abdul-Mageed. “Towards Afrocentric NLP for African Languages:Where We Are and Where We Can Go.”](https://aclanthology.org/2022.acl-long.265.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022) Volume 1: Long Papers, pages 3814 - 3841.
+- [Atnafu Lambebo Tonja, Tadesse Destaw Belay, Israel Abebe Azime, et. al.,"Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities"](https://aclanthology.org/2023.rail-1.14.pdf) In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 126–139.
+- [Chesire Emmanue, Kipkebut Andrew. "Current State, Challenges and Opportunities for Natural Language Processing Research and Development in Africa: A Systemic Review"](https://openreview.net/pdf?id=9CsL0PvDDV) In AfricaNLP workshop at the International Conference on Learning Representation (ICLR 2024).
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
 
 </div>
