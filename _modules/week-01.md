@@ -15,7 +15,7 @@ In this module, we will have a high-level discussion about language technology i
 - [Slides coming soon]
 - Pre-Class Reflection:
   - Take a Look at the [Ethnologue page](https://www.ethnologue.com/), See if you can answer the following questions;
-    - How many languages are spoken in the world today? How many of the spoken languages are from Africa? What countries have the most languages? 
+    - How many languages are spoken in the world today? How many of the spoken languages are from Africa? What countries have the most languages? What continents have the most indigenous languages?
   - Read through this [blog](https://www.marekrei.com/blog/geographic-diversity-of-nlp-conferences/), see if you can understand the status of Natural Language Processing Research for African languages. 
 
 </div>
