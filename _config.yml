@@ -19,8 +19,8 @@ description: Reading materials and assignments for the course Teaching Computers
 author: Happy Buzaaba
 baseurl: '/FRS159' # the subpath of your site, e.g. /blog
 url: 'https://github.com/Buzaabah' # the base hostname & protocol for your site, e.g. http://example.com
-logo: 'assets/favicon/logo-class-notext.png'
-favicon_ico: 'assets/favicon/class-logo.ico'
+#logo: 'assets/favicon/logo-class-notext.png'
+#favicon_ico: 'assets/favicon/class-logo.ico'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Google Analytics Tracking (optional)
