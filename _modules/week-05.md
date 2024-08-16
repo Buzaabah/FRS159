@@ -1,18 +1,18 @@
 ---
-title: Week 5 - Text Digitization and Markup Languages
+title: Week 5 - Introduction to NLP and Its applications
 ---
 
-During our first session this week, we will look at  into the technology behind making text digitally readable. Our historic postcard collection provides the perfect case study for exploring both Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) technologies. In our subsequent session, we will explore the world of markup languages, such as HTML and XML. We will discuss their significance in structuring and presenting digital content, and explore how these languages serve as the backbone of content representation on the web.
-
+<!-- During our first session this week, we will look at  into the technology behind making text digitally readable. Our historic postcard collection provides the perfect case study for exploring both Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) technologies. In our subsequent session, we will explore the world of markup languages, such as HTML and XML. We will discuss their significance in structuring and presenting digital content, and explore how these languages serve as the backbone of content representation on the web.
+-->
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 27</span>
+    <span class="date-label">Oct 3</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Text Recognition Technologies</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1PjYnYRgqjD_MzFKO2Ryma4g-U0eo_6usRbizasL0NiU/edit?usp=sharing)
+- [Slides coming soon]
 - Pre-Class Reflection:
   - [Terras, Melissa. “The Role of the Library When Computers Can Read: Critically Adopting Handwritten Text Recognition (HTR) Technologies to Support Research.”](https://app.perusall.com/courses/introdh24/terras-2022-the-role-of-the-library-when-computers-can-read-c-404383324) _The Rise of AI_, edited by Amanda Wheatley and Sandy Hervieux, ACRL - Association of College & Research Libraries, 2022, pp. 137–48.
   <!-- - [Terras, Melissa. “Present, Not Voting: Digital Humanities in the Panopticon.”](https://app.perusall.com/courses/introdh24/terras_2012_present-not-voting) _Understanding Digital Humanities_, edited by David M. Berry, Palgrave Macmillan UK, 2012, pp. 172–90. -->
