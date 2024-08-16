@@ -47,6 +47,7 @@ In this module, we will discuss existing African language datasets, we will prac
 - Practice annotation:
   - We will practice using [African language text corpus](https://github.com/masakhane-io/lacuna_pos_ner/tree/main/language_corpus)  to annotate African languages.
   - We will use an [external annotation tool](https://tecoholic.github.io/ner-annotator/) to annotate Named Entities in African languages text.
+  
 
 {% comment %}
 - Presentation overview:
