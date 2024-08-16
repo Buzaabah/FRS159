@@ -23,7 +23,7 @@ In this module, we investigate the critical procedures involved in annotating da
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 20</span>
+    <span class="date-label">Sept 26</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Data Cleaning</span>
   </summary>
