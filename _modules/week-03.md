@@ -9,14 +9,13 @@ In this module, we will start on our class-crowdsourced project featuring a data
   <summary class="session-summary">
     <span class="date-label"><del>Sept 19</del></span>
     <span class="label label-blue">Discussion</span>
-    <!-- span class="label label-yellow"><del>Field Trip</del></span -->
     <!-- span class="session-title"><del>Exploring Princeton's Postcards</del></span -->
     <span class="session-title">Session-1</span>
     <!-- span class="session-title">CANCELED DUE TO SNOW STORM ☃️</span -->
   </summary>
-  < <div markdown="1">
+  <div markdown="1">
 
-- Pre-Class Exercise:
+- Pre-Class Exercise: coming soon
 {% comment %}
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
