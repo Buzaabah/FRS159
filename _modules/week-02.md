@@ -1,5 +1,5 @@
 ---
-title: Week 2 - Data Culture(s)
+title: Week 2 - Introduction to main linguistic groups of Africa 
 ---
 
 {% comment %}

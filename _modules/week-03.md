@@ -1,5 +1,5 @@
 ---
-title: Week 3 - A Project of Our Own
+title: Week 3 - Introduction to (Ki)Swahili Language,  Swahili as an African Language vs a dialect of Arabic 
 ---
 
 {% comment %}
@@ -14,7 +14,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
     <span class="session-title">Session-1</span>
     <!-- span class="session-title">CANCELED DUE TO SNOW STORM ☃️</span -->
   </summary>
-  <!-- <div markdown="1">
+  < <div markdown="1">
 
 - Pre-Class Exercise:
 {% comment %}
