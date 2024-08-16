@@ -2,8 +2,9 @@
 title: Week 5 - Introduction to NLP and Its applications
 ---
 
-<!-- During our first session this week, we will look at  into the technology behind making text digitally readable. Our historic postcard collection provides the perfect case study for exploring both Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) technologies. In our subsequent session, we will explore the world of markup languages, such as HTML and XML. We will discuss their significance in structuring and presenting digital content, and explore how these languages serve as the backbone of content representation on the web.
--->
+It is common for people to use NLP technology every day without even knowing it. For example, Google Search knows what you're looking for through either text or speech,
+Gmail generates smart reply responses based on messages etc. This module will introduce NLP and its applications.
+
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
