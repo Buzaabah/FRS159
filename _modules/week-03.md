@@ -2,19 +2,22 @@
 title: Week 3 - A Project of Our Own
 ---
 
+{% comment %}
 In this module, we will start on our class-crowdsourced project featuring a dataset that captures the essence of Princeton University: the Princeton University Historical Postcard Collection. Part of this collection has been digitized and is available through the [Princeton University Digital Library](https://dpul.princeton.edu/collections/7d278t50j). We will outline the various stages of this project, from conception to completion, and identify the tools and techniques that will assist us throughout. We will also pay a visit to the [Mudd Library](https://library.princeton.edu/special-collections) where we will view the collection up close. In the second meeting of this week, we investigate the critical procedures involved in data cleaning, and how [OpenRefine](https://openrefine.org/) can be used in this process.
-
+{% endcomment %}
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label"><del>Sept 19</del></span>
-    <span class="label label-yellow"><del>Field Trip</del></span>
-    <span class="session-title"><del>Exploring Princeton's Postcards</del></span>
-    <span class="session-title">CANCELED DUE TO SNOW STORM ☃️</span>
+    <span class="label label-blue">Discussion</span>
+    <!-- span class="label label-yellow"><del>Field Trip</del></span -->
+    <!-- span class="session-title"><del>Exploring Princeton's Postcards</del></span -->
+    <span class="session-title">Session-1</span>
+    <!-- span class="session-title">CANCELED DUE TO SNOW STORM ☃️</span -->
   </summary>
   <!-- <div markdown="1">
 
 - Pre-Class Exercise:
+{% comment %}
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
     1. If available, find the same postcard on a different online platform. Note differences in color, detail, or cropping. What do these variations suggest about digitizing analog materials?
@@ -30,19 +33,23 @@ In this module, we will start on our class-crowdsourced project featuring a data
   - [Manžuch, Zinaida. “Ethical Issues in Digitization of Cultural Heritage.”](https://app.perusall.com/courses/introdh24/manz-uch_2017_ethical-issues-in-digitization-of-cultural-heritage) _Journal of Contemporary Archival Studies_, vol. 4, no. 2, 2017, pp. 1–17.
   - [Kropf, Evyn. “Will That Surrogate Do? Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library.”](https://app.perusall.com/courses/introdh24/kropf_2016_will-that-surrogate-do) _Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies_, 2016, pp. 52–70.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
+
+{% endcomment %}
 </div> -->
 </details>
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label">Sept 19</span>
-    <span class="label label-yellow">Field Trip</span>
-    <span class="session-title">Exploring Princeton's Postcards</span>
+    <!-- span class="label label-yellow">Field Trip</span -->
+    <span class="label label-blue">Discussion</span>
+    <span class="session-title">Session-2</span>
   </summary>
   <div markdown="1">
 
-- Pre-Class Exercise:
+- Pre-Class Exercise: comming soon
+
+{% comment %}
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
     1. If available, find the same postcard on a different online platform. Note differences in color, detail, or cropping. What do these variations suggest about digitizing analog materials?
@@ -58,6 +65,8 @@ In this module, we will start on our class-crowdsourced project featuring a data
   - [Manžuch, Zinaida. “Ethical Issues in Digitization of Cultural Heritage.”](https://app.perusall.com/courses/introdh24/manz-uch_2017_ethical-issues-in-digitization-of-cultural-heritage) _Journal of Contemporary Archival Studies_, vol. 4, no. 2, 2017, pp. 1–17.
   - [Kropf, Evyn. “Will That Surrogate Do? Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library.”](https://app.perusall.com/courses/introdh24/kropf_2016_will-that-surrogate-do) _Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies_, 2016, pp. 52–70.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
+
+{% endcomment %}
 </div>
 </details>
 

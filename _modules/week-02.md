@@ -2,11 +2,11 @@
 title: Week 2 - Data Culture(s)
 ---
 
+{% comment %}
 This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concept, and the methodologies that propel the field forward. Later on this week, we focus on practical applications of metadata and data description.
-
+{% endcomment %}
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>  
     <span class="date-label">Sep 26</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Session-1</span>
@@ -32,14 +32,13 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label">Sep 26</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Session-2</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1_bi87M3C2AIugQEvzCU6jQV0_AjZ_HTrzvRnbKai2Jc/edit?usp=sharing):
-- Reflection:
+- [Slides coming soon]
+- Reflection: coming soon
 
 {% comment %}
   - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99.
