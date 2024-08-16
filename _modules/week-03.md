@@ -7,7 +7,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label"><del>Feb 13</del></span>
+    <span class="date-label"><del>Sept 19</del></span>
     <span class="label label-yellow"><del>Field Trip</del></span>
     <span class="session-title"><del>Exploring Princeton's Postcards</del></span>
     <span class="session-title">CANCELED DUE TO SNOW STORM ☃️</span>
@@ -36,7 +36,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 15</span>
+    <span class="date-label">Sept 19</span>
     <span class="label label-yellow">Field Trip</span>
     <span class="session-title">Exploring Princeton's Postcards</span>
   </summary>

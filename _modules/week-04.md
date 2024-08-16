@@ -7,7 +7,7 @@ In this module, we investigate the critical procedures involved in annotating da
 <!-- <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 20</span>
+    <span class="date-label">Sept 26</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Data Modeling</span>
   </summary>
@@ -40,7 +40,7 @@ In this module, we investigate the critical procedures involved in annotating da
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 22</span>
+    <span class="date-label">Sept 26</span>
     <span class="label label-green">Present</span>
     <span class="session-title">Data Biographies</span>
   </summary>
