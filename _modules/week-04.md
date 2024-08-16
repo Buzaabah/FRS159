@@ -21,26 +21,26 @@ In this module, we will discuss existing African language datasets, we will prac
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label">Sept 26</span>
-    <span class="label label-red">Lab</span>
-    <span class="session-title">Session-1g</span>
+    <span class="label label-blue">Discussion</span>
+    <span class="session-title">Session-1</span>
   </summary>
   <div markdown="1">
 - [Slides coming soon]
 - Reflection:
-  - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), Summerise in one paragraph what is annotation and why it is necessary.
+  - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), summerise in one paragraph what is annotation and why it is necessary.
 </div>
 </details>
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label">Sept 26</span>
-    <span class="label label-green">Present</span>
-    <span class="session-title">Data Biographies</span>
+    <span class="label label-blue">Discussion</span>
+    <span class="session-title">Session-2</span>
   </summary>
   <div markdown="1">
+
+{% comment %}
 - Presentation overview:
   - On this day, students will present their Data Biographies. This is a chance to share the intriguing stories behind the datasets you've explored!
   - Each presentation should last approximately -- but also no more than -- **4 minutes**, followed by a brief (~1 minute) Q&A session.
@@ -63,5 +63,6 @@ In this module, we will discuss existing African language datasets, we will prac
   | 6 - _Anya_               | 13 - _Yaashree_              |
   | 7 - _Ethan_               | 14 - _Pia_                   |
 
+{% endcomment %}
 </div>
 </details>

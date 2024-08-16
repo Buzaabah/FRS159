@@ -7,7 +7,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
 {% endcomment %}
 <details>
   <summary class="session-summary">
-    <span class="date-label"><del>Sept 19</del></span>
+    <span class="date-label">Sept 19</span>
     <span class="label label-blue">Discussion</span>
     <!-- span class="session-title"><del>Exploring Princeton's Postcards</del></span -->
     <span class="session-title">Session-1</span>
