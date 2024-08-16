@@ -2,7 +2,7 @@
 title: Week 4 - Experience with corpus and corpus annotation 
 ---
 
-In this module, we will discuss existing African language datasets, we will practice named Entity recognition data annotation using an existing tool.
+In this module, we will discuss existing African language datasets, we will practice named Entity recognition data annotation for African languages using an existing tool.
 
 <!-- <details>
   <summary class="session-summary">
@@ -15,6 +15,8 @@ In this module, we will discuss existing African language datasets, we will prac
 - Slides (_coming soon_)
 - Pre-Class Reading:
   - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), Summerise in one paragraph what is annotation and why it is necessary.
+  - [Adelani et al., MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66.pdf). Read abstract, section 3 of focus languages and section 4 about the Data and annotation methodology
+  - [Cheikh et al., MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://aclanthology.org/2023.acl-long.609.pdf). Read the abstract, all of section 4 about data and annotation and section 5 annotation challenges.
   **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a> 
 </div>
 </details> -->
@@ -29,6 +31,9 @@ In this module, we will discuss existing African language datasets, we will prac
 - [Slides coming soon]
 - Reflection:
   - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), summerise in one paragraph what is annotation and why it is necessary.
+  - [Adelani et al., MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66.pdf). Read abstract, section 3 of focus languages and section 4 about the Data and annotation methodology
+  - [Cheikh et al., MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://aclanthology.org/2023.acl-long.609.pdf). Read the abstract, all of section 4 about data and annotation and section 5 annotation challenges.
+  
 </div>
 </details>
 
@@ -39,6 +44,9 @@ In this module, we will discuss existing African language datasets, we will prac
     <span class="session-title">Session-2</span>
   </summary>
   <div markdown="1">
+- Practice annotation:
+  - We will practice using [African language text corpus](https://github.com/masakhane-io/lacuna_pos_ner/tree/main/language_corpus)  to annotate African languages.
+  - We will use an [external annotation tool](https://tecoholic.github.io/ner-annotator/) to annotate Named Entities in African languages text.
 
 {% comment %}
 - Presentation overview:
