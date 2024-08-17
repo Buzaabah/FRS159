@@ -17,6 +17,9 @@ In this module, we will start on our class-crowdsourced project featuring a data
 
 - Pre-Class Exercise: coming soon
 
+
+
+
 {% comment %}
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
