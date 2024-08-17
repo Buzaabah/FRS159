@@ -10,12 +10,13 @@ In this module, we will start on our class-crowdsourced project featuring a data
     <span class="date-label">Sept 19</span>
     <span class="label label-blue">Discussion</span>
     <!-- span class="session-title"><del>Exploring Princeton's Postcards</del></span -->
-    <span class="session-title">Session-1</span>
+    <span class="session-title">Introduction to (Ki)Swahili Language</span>
     <!-- span class="session-title">CANCELED DUE TO SNOW STORM ☃️</span -->
   </summary>
   <div markdown="1">
 
 - Pre-Class Exercise: coming soon
+
 {% comment %}
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
@@ -33,14 +34,16 @@ In this module, we will start on our class-crowdsourced project featuring a data
   - [Kropf, Evyn. “Will That Surrogate Do? Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library.”](https://app.perusall.com/courses/introdh24/kropf_2016_will-that-surrogate-do) _Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies_, 2016, pp. 52–70.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
 
-{% endcomment %}
+
 </div> -->
 </details>
+{% endcomment %}
 
-<details>
+
+<!-- <details>
   <summary class="session-summary">
     <span class="date-label">Sept 19</span>
-    <!-- span class="label label-yellow">Field Trip</span -->
+    <span class="label label-yellow">Field Trip</span
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Session-2</span>
   </summary>
@@ -48,7 +51,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
 
 - Pre-Class Exercise: comming soon
 
-{% comment %}
+
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
     1. If available, find the same postcard on a different online platform. Note differences in color, detail, or cropping. What do these variations suggest about digitizing analog materials?
@@ -65,9 +68,9 @@ In this module, we will start on our class-crowdsourced project featuring a data
   - [Kropf, Evyn. “Will That Surrogate Do? Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library.”](https://app.perusall.com/courses/introdh24/kropf_2016_will-that-surrogate-do) _Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies_, 2016, pp. 52–70.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
 
-{% endcomment %}
+
 </div>
-</details>
+</details> -->
 
 
 

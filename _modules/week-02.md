@@ -9,12 +9,12 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   <summary class="session-summary">
     <span class="date-label">Sep 26</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Session-1</span>
+    <span class="session-title">Linguistic groups of Africa</span>
   </summary>
   <div markdown="1">
     
 - [Slides coming soon]
-- Pre-Class Exercise: coming soon
+- Pre-Class Readings: coming soon
 
 {% comment %}
 
@@ -26,7 +26,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   - [Ramsay, Stephen. 2014. "The Hermeneutics of Screwing Around; or What You Do with a Million Books."](https://app.perusall.com/courses/introdh24/ramsay_2014_the-hermeneutics-of-screwing-around-or-what-you-dowith-a-million-books) In _Pastplay: Teaching and Learning History with Technology_, edited by Kevin B. Kee, 111–20. Ann Arbor: University of Michigan Press.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
 
-{% endcomment %}
+
 </div>
 </details>
 
@@ -40,6 +40,8 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 - [Slides coming soon]
 - Reflection: coming soon
 
+{% endcomment %}
+
 {% comment %}
   - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99.
   - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18.
@@ -49,6 +51,8 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 - **Optional**, complimentary reading for further interest:
   - [Hoffman, Gretchen. “How Are Cookbooks Classified in Libraries? An Examination of LCSH and LCC.”](https://app.perusall.com/courses/introdh24/hoffman_2013_how-are-cookbooks-classified-in-libraries) _Proceedings from North American Symposium on Knowledge Organization_, vol. 4, no. 1, 2013, pp. 100–11.
   <!-- - Borgman, Christine L. “Big Data, Little Data, No Data: Scholarship in the Networked World.” _The MIT Press_, 2015, pp. 1–18. -->
-{% endcomment %}
+
 </div>
 </details>
+
+{% endcomment %}

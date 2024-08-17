@@ -13,8 +13,6 @@ In this module, we will have a high-level discussion about language technology i
     <div markdown="1">
 
 - [Slides coming soon]
-
-- [Slides coming soon]
 - Pre-Class Reflection:
 - Take a Look at the [Ethnologue page](https://www.ethnologue.com/), See if you can answer the following questions;
     - How many languages are spoken in the world today? How many of the spoken languages are from Africa? What countries have the most languages? What continents have the most indigenous languages?
@@ -26,7 +24,7 @@ In this module, we will have a high-level discussion about language technology i
   - [Chesire Emmanue, Kipkebut Andrew. "Current State, Challenges and Opportunities for Natural Language Processing Research and Development in Africa: A Systemic Review"](https://openreview.net/pdf?id=9CsL0PvDDV) In AfricaNLP workshop at the International Conference on Learning Representation (ICLR 2024).
 
 </div>
-  </details>
+</details>
 
 {% comment %}
 
@@ -51,7 +49,8 @@ In this module, we will have a high-level discussion about language technology i
 
 
 <!-- **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a> -->
-{% endcomment %}
+
 
 </div>
 </details>
+{% endcomment %}

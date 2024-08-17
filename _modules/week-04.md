@@ -75,6 +75,8 @@ In this module, we will discuss existing African language datasets, we will prac
   | 6 - _Anya_               | 13 - _Yaashree_              |
   | 7 - _Ethan_               | 14 - _Pia_                   |
 
-{% endcomment %}
+
 </div>
 </details>
+
+{% endcomment %}
