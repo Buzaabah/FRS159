@@ -7,6 +7,7 @@ parent: Resources
 
 ## Datasets
 
+<!--
 There are some great datasets out there! In this course, we will encounter and play with some of the ones listed here below. It goes without saying that it is impossible for this list to be exhaustive. Look at it as a point of reference, but perhaps more so as a place of inspiration. Should you stumble upon a fascinating dataset or have one to recommend, please bring it to my attention so we can enrich our collection further.
 
 One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), [Kaggle](https://www.kaggle.com/datasets), and the [Journal of Open Humanities Data (JOHD)](https://openhumanitiesdata.metajnl.com/). The website [Humanities Data](https://humanitiesdata.com/resources) also offers a curated list of datasets. There's also [Archives Hub](https://archiveshub.jisc.ac.uk/), which provides access to descriptions of archives held in UK universities and colleges.
@@ -116,3 +117,5 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19)**: Corpus of academic papers about COVID-19 and related coronavirus research, curated and maintained by the Semantic Scholar team at the Allen Institute for AI to support text mining and NLP research.
 - **[International Database and Gallery of Structures](https://structurae.net/en/structures/):** Database of structures, including [bridges](https://structurae.net/en/structures/bridges), [buildings](https://structurae.net/en/structures/buildings), [cathedrals](https://structurae.net/en/structures/buildings/cathedrals/list), [rollercoasters](https://structurae.net/en/structures/amusement-rides), [towers](https://structurae.net/en/structures/towers) and other large structures, with detailed information on their design, construction, and history.
 - **[Project Arctic Shift](https://arctic-shift.photon-reddit.com/)**: Making Reddit data accessible to researchers, moderators and everyone else. Interact with the data through large dumps, an API or web interface.
+
+-->

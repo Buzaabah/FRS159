@@ -1,4 +1,5 @@
----
+#---
+<!--
 layout: page
 title: Tools
 permalink: /resources/tools
@@ -72,3 +73,5 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[Mendeley](https://www.mendeley.com/)**: Another great reference manager.
 - **[EndNote](https://endnote.com/)**: Yet another great reference manager.
 - **[Tropy](https://tropy.org/)**: A tool for managing and organizing research photos.
+
+-->

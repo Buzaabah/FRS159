@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 # Objectives
+<!--
 
 Any course with the phrase *Introduction to* in its title embodies both a curse and a blessing. The curse mostly stems form the overchoice stress experienced by the instructor when they sit down to design the syllabus and undertake the exercise of distilling the essence of a field. Inevitably, this exercise is always a form of self-inquiry.  Particularly for Digital Humanities, this choice-related stress can take on draconian proportions, as the field is often compared to a large, all-welcoming tent (hence our class logo).
 
@@ -19,3 +20,4 @@ Our primary goal in this course is thus to provide an introduction, but this doe
 - Assessing the **impact and implications** of digital technology on humanities disciplines.
 - Engaging critically with the **ethical issues** raised by digital projects in the humanities.
 - Developing and **presenting** a Digital Humanities project, demonstrating their understanding of the methodologies, tools, and theoretical perspectives studied in the course.
+-->

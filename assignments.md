@@ -16,6 +16,7 @@ nav_order: 4
 | **Total**                       |   **100%** |
 
 
+<!--
 ## Term Assignments (70%)
 
 ### Engagement with Materials (30%)
@@ -106,3 +107,5 @@ I will be evaluating your proposal holistically. Rather than just looking for th
 You will have the opportunity to [present your research proposal](#presentations-10) in class on 25 April. This presentation will be followed by a Q&A session, where you will receive feedback from me and your peers-- feedback that you can still incorporate into your final, written research proposal.
 
 Please format your file as `LastName-Research-Proposal` and <a href= "mailto:wouter.haverals@princeton.edu" style="color: #ee6374;">email it to me by 7 May 2024</a>, which is [Dean's Date](https://isitdeansdate.com/).
+
+-->

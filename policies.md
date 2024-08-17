@@ -1,4 +1,5 @@
----
+#---
+<!--
 layout: page
 title: "Policies"
 permalink: /policies/
@@ -79,3 +80,5 @@ Using LLMs should be seen as an opportunity to enhance your learning and underst
 ## COVID Protocol
 
 If you test positive for COVID, please stay home! Inform me, and we will arrange -- if possible -- a semi-hybrid option.
+
+-->

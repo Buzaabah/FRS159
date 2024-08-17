@@ -4,6 +4,7 @@ title: Acknowledgements
 nav_order: 9
 ---
 
+<!--
 ## Acknowledgments
 
 This syllabus has drawn inspiration from the teaching materials of many others. Among the syllabi referenced while developing this course are other courses entitled "Introduction to Digital Humanities," including those by [Kristen Mapes and Kate Topham](https://msuintrodhfall2020.hcommons.org/), [Zoe LeBlanc](https://zoeleblanc.com/IntroToDH2020/), [Miriam Posner](https://miriamposner.com/classes/dh201w23/), [Sierra Eckert](https://sceckert.github.io/IntroDHSpring2021/), and [Ryan Cordell](https://f20idh.ryancordell.org/). Other courses that have been consulted include [Meredith Martin and Rebecca Munson's "Literature, Data, and Interpretation"](https://humstudies.princeton.edu/courses/literature-data-and-interpretation/), [Melanie Walsh's "Introduction to Cultural Analytics & Python"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html), and the case studies-based handbook ["Humanities Data Analysis"](https://www.humanitiesdataanalysis.org/) by Folgert Karsdorp, Mike Kestemont, and Allen Riddell.
@@ -20,3 +21,4 @@ Also a huge shout out to [my friends at the CDH](https://cdh.princeton.edu/peopl
 ## About this Website
 
 The website is built on the basis of the [Just the Class](https://github.com/kevinlin1/just-the-class) template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme!
+-->
