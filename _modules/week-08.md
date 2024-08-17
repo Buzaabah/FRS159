@@ -7,8 +7,7 @@ In this module, we will discover the world of stylometry, a field that probes th
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Mar 26</span>
+    <span class="date-label">Oct 31</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Stylometry</span>
   </summary>
@@ -23,8 +22,7 @@ In this module, we will discover the world of stylometry, a field that probes th
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Mar 28</span>
+    <span class="date-label">Oct 31</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Authorship Attribution with <i>Stylo</i></span>
   </summary>

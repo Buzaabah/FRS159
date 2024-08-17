@@ -6,8 +6,7 @@ This week begins with a lecture on Distant Reading, where we will explore the th
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Mar 5</span>
+    <span class="date-label">Oct 10</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Distant Reading</span>
   </summary>
@@ -23,8 +22,7 @@ This week begins with a lecture on Distant Reading, where we will explore the th
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Mar 7</span>
+    <span class="date-label">Oct 10</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Applying <i>Voyant Tools</i></span>
   </summary>

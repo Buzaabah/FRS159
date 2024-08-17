@@ -5,8 +5,7 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Apr 23</span>
+    <span class="date-label">Dec 5</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Ethical Considerations</span>
   </summary>

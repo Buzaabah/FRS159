@@ -17,8 +17,7 @@ else:
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Apr 16</span>
+    <span class="date-label">Nov 21</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Intellectual Property Rights</span>
   </summary>

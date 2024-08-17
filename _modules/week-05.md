@@ -7,7 +7,6 @@ Gmail generates smart reply responses based on messages etc. This module will in
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
     <span class="date-label">Oct 3</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Text Recognition Technologies</span>
@@ -24,8 +23,7 @@ Gmail generates smart reply responses based on messages etc. This module will in
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label">Feb 29</span>
+    <span class="date-label">Oct 3</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Markup Languages</span>
   </summary>

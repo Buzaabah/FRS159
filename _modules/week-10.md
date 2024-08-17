@@ -7,8 +7,7 @@ This week, we continue our exploration of visualization in Digital Humanities wi
 
 <details>
   <summary class="session-summary">
-    <span class="arrow">↪</span>
-    <span class="date-label"><del>Apr 9</del></span>
+    <span class="date-label"><del>Nov 14</del></span>
     <span class="label label-red"><del>Lab</del></span>
     <span class="session-title"><del>Network Analysis</del></span>
     <span class="session-title">CANCELED</span>
