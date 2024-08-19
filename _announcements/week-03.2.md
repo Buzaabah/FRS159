@@ -1,4 +1,6 @@
----
+#---
+
+<!--
 title: 2/15 CLASS @ MUDD LIBRARY
 week: 3
 date: 2024-02-14
@@ -21,3 +23,5 @@ Please take a moment to visit the course website where I've posted the [updated 
 Thank you all for your understanding and flexibility! I appreciate your commitment to adapting alongside these minor changes.
 
 -- Wouter
+
+-->

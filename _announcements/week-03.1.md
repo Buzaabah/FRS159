@@ -1,4 +1,6 @@
----
+#---
+
+<!--
 title: 2/13 CLASS CANCELED
 week: 3
 date: 2024-02-13
@@ -11,3 +13,4 @@ Sadly, **today’s (Feb. 13) class is CANCELED**. I just received the message th
 Stay safe and warm!
 
 --Wouter
+-->
