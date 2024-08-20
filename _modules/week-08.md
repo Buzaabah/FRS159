@@ -16,7 +16,7 @@ In this week we will discuss techniques for extracting semantic content from tex
   <div markdown="1">
 - [Slides coming soon]
 - Readings:
- - - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) Third Edition by Daniel Jurafsky, James H. Martin. 
+  - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Read Chapter 20 about information extraction, Relation extraction, events and time. No need to go into technical details.
 
 
