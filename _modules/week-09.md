@@ -2,7 +2,7 @@
 title: Week 9 - The movie was okay – analyzing the sentiment of texts
 ---
 
-This week will discuss sentiment analysis, the extraction of sentiment, the positive or negative orientation that a writer expresses toward some object.
+This week will discuss sentiment analysis, the extraction of sentiment, the positive or negative orientation that a writer expresses towards some object.
 
 <details>
   <summary class="session-summary">
