@@ -2,7 +2,7 @@
 title: Week 11 - Going beyond text processing; complexities of spoken language
 ---
 
-One of the earliest goals of language processing in computers is to understand spoken language. THis module will introduce Automatic Speech Recognition (ASR), Text-to-Speech (TTS) and how to build speech recognition systems for African languages.
+One of the earliest goals of language processing in computers is to understand spoken language. This module will introduce Automatic Speech Recognition (ASR), Text-to-Speech (TTS) and how to build speech recognition systems for African languages.
 
 
 
