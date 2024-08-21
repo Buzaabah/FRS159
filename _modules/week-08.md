@@ -18,6 +18,9 @@ In this week we will discuss techniques for extracting semantic content from tex
 - Readings:
   - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Read Chapter 20 about information extraction, Relation extraction, events and time. No need to go into technical details.
+- [Adelani et al., MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66.pdf). Read from abstract to section 4 about named entity for African languages.
+- [Cheikh et al., MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://aclanthology.org/2023.acl-long.609.pdf). Read from abstract section 5 about parts of speech for African languages.
+
 
 
 </div>
