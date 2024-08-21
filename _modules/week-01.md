@@ -17,6 +17,7 @@ In this module, we will have a high-level discussion about language technology i
 - Take a Look at the [Ethnologue page](https://www.ethnologue.com/), See if you can answer the following questions;
     - How many languages are spoken in the world today? How many of the spoken languages are from Africa? What countries have the most languages? What continents have the most indigenous languages?
 - Read through this [blog](https://www.marekrei.com/blog/geographic-diversity-of-nlp-conferences/), see if you can understand the status of Natural Language Processing Research for African languages.
+- Read through the [Masakhane page](https://www.masakhane.io/), make a reflection about masakhane.
 
 - Read through the following papers, summerise in one page your key takeaway from the paper. You don't have to understand everything.
   - [Ife Adebara, Muhammad Abdul-Mageed. “Towards Afrocentric NLP for African Languages:Where We Are and Where We Can Go.”](https://aclanthology.org/2022.acl-long.265.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022) Volume 1: Long Papers, pages 3814 - 3841.
