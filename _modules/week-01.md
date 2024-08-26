@@ -19,7 +19,7 @@ In this module, we will have a high-level discussion about language technology i
 - Read through this [blog](https://www.marekrei.com/blog/geographic-diversity-of-nlp-conferences/), see if you can understand the status of Natural Language Processing Research for African languages.
 - Read through the [Masakhane](https://www.masakhane.io/), and the [AfricaNLP](https://sites.google.com/view/africanlp2024/home?authuser=0) pages,  make a reflection about Masakhane, AfricaNLP and the efforts being made to create technology for African languages.
 - About technology and technology for African languages, a reflection about [Generative AI](https://ig.ft.com/generative-ai/).
-- 
+
 </div>
 </details>
 
