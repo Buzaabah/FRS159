@@ -21,7 +21,7 @@ nav_order: 4
 
 ### Engagement with Materials (30%)
 
-Throughout the course, you will be actively engaging with a wide range of assigned materials, including academic articles, book chapters, project websites, podcasts, videos, essays, and datasets. This engagement involves a two-step process: firstly, by commenting on _Perusall_, and secondly, by reflecting on your insights on _Slack_. Additionally, you'll dive into a dataset by creating a Data Biography.
+Throughout the course, you will be actively engaging with a wide range of assigned materials, including book chapters, academic articles, project websites, podcasts, videos, essays, and datasets. This engagement involves a two-step process: firstly, by commenting on _Perusall_, and secondly, by reflecting on your insights on slack. Additionally, you'll dive into a dataset by creating a Data Biography.
 
 **1. Commenting on _Perusall_** (10%)
 
