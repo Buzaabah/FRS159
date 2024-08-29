@@ -8,9 +8,9 @@ nav_order: 4
 # Assignments
 
 |---------------------------------|:----------:|
-| Engagement with Materials       |     25%    |
+| Engagement with Materials       |     20%    |
 | Class Participation             |     15%    |
-| Presentations                   |     10%    |
+| Presentations                   |     15%    |
 | Midterm Exam                    |     20%    |
 | Final paper of Project          |     30%    |
 | **Total**                       |   **100%** |
