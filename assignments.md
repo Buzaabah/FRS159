@@ -16,16 +16,16 @@ nav_order: 4
 | **Total**                       |   **100%** |
 
 
-<!--
+
 ## Term Assignments (70%)
 
 ### Engagement with Materials (30%)
 
-Throughout the course, you will be actively engaging with a wide range of assigned materials, including book chapters, academic articles, project websites, podcasts, videos, essays, and datasets. This engagement involves a two-step process: firstly, by commenting on _Perusall_, and secondly, by reflecting on your insights on slack. Additionally, you'll dive into a dataset by creating a Data Biography.
+Throughout the course, you will be actively engaging with a wide range of assigned materials, including book chapters, academic articles, project websites, podcasts, videos, essays, and datasets. This engagement involves a two-step process: firstly, by commenting on _Perusall_, and secondly, by reflecting on your insights on slack. 
 
 **1. Commenting on _Perusall_** (10%)
 
-Engage with the assigned materials on the collaborative annotation platform [_Perusall_](https://www.perusall.com/) (access code to be shared in class). Make sure to read, watch, or listen to the materials thoroughly. _Perusall_ allows you to highlight passages, make comments, and respond to your peers' comments and questions. Please be courteous and constructive during these interactions, adhering to the same [etiquette guidelines](https://whaverals.github.io/IntroDH2024/policies/#class-etiquette) as our class interactions.
+Engage with the assigned materials on the collaborative annotation platform [_Perusall_](https://app.perusall.com/). Make sure to read, watch, or listen to the materials thoroughly. _Perusall_ allows you to highlight passages, make comments, and respond to your peers' comments and questions. Please be courteous and constructive during these interactions, adhering to the same [etiquette guidelines](https://whaverals.github.io/IntroDH2024/policies/#class-etiquette) as our class interactions.
 
 - **Frequency of Engagement**: Unless otherwise noted, you should complete a minimum of three annotations per assigned material (i.e. per article, chapter, video, etc.) by 9:00AM on the day of our class.
 - **Nature of Comments**: Your comment can be an agreement, disagreement, expression of confusion, question, or any other relevant observation. There are no right or wrong comments. The interaction serves as an exercise in critical thinking, collaborative learning, and engagement with scientific debates.
