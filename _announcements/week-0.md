@@ -8,7 +8,7 @@ Hello students --
  
 Welcome to Princeton! I am looking forward to meeting you and I hope you are eager for the adventures ahead. 
 
-Meeting location coming soon..
+Meeting location Forbes Col 126
 
 The first session of our meeting will be about knowing each other and to go over the contents of our course. The session will be an opportunity for us to become acquainted, discussing our interests, backgrounds, and what we hope to achieve by the end of the course.
   
