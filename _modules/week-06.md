@@ -15,8 +15,10 @@ title: Week 6 - NLP and social media
 - Readings
     - Soffer, O. (2010). "Silent Orality": Towards Conceptualization of the digital oral features in CMC and SMS texts, Communication Theory 20, p. 387-404.
     - [Digital Culture is Like Oral Culture Written Down] (https://medium.com/the-civic-beat/digital-culture-is-like-oral-culture-written-down-df896b287782#:~:text=Emoji%2C%20messenger%20stickers%2C%20walkie%20talkie,%2C%20storytelling%2C%20talking%2C%20etc)
+    - Natural language processing and Social media [blog](https://medium.com/geekculture/natural-language-processing-in-the-social-media-age-23e1e10235bd)
 - Video
     - [Understanding Oral Culture in the Digital Age](https://www.youtube.com/watch?v=ki-Ncbl7LOw)
+
  
 - Supplementary/Additional Readings
     - Ong, W. J. (1982). Orality and literacy: The technologizing of the word. London: Methuen. Publishing House.
