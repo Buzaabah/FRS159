@@ -56,7 +56,7 @@ Class attendence is an important aspect of this course, because alot will be cov
 
 Throughout this course, there will be opportunities to present your work. These will include, reading an article and present plus your final paper project.
 
-### Midterm (25%)
+### Midterm (15%)
 There will be a mid-term exam which will account for 25%
 ## Final paper project (20%)
 TBA
