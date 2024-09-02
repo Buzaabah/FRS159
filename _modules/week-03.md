@@ -15,8 +15,13 @@ In this module, we will start on our class-crowdsourced project featuring a data
   </summary>
   <div markdown="1">
 
-- Pre-Class Exercise: coming soon
+- Readings
 
+- Barasa & Mous – Oral and written Interface in SMS
+- [A Brief Introduction to the Bantu Languages](https://utalk.com/news/a-brief-introduction-to-the-bantu-languages/)
+ 
+Video
+The Swahili Language – [A native language that absorbed a lot of foreign vocab](https://www.youtube.com/watch?v=Q_9QfBSbw8g)
 
 
 

@@ -15,6 +15,13 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     
 - [Slides coming soon]
 - Pre-Class Readings: coming soon
+  - C. Tucker Childs - An intro to African languages
+  - The State and fate…
+ 
+Videos
+[The Amazing Languages of Africa]( https://www.youtube.com/watch?v=-qJuVWpT6CU) - sounds, grammar and writing systems of African languages.
+The Languages of Africa https://www.youtube.com/watch?v=1WhIiqHr0q0
+Example of Khoisan - Siki Jo-An – ‘The Click Song' | Blind Audition | The Voice SA: Seaso 3 | [M-Net](https://www.youtube.com/watch?v=W319s4Tvp9Y)
 
 {% comment %}
 

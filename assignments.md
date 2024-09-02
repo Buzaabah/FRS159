@@ -8,16 +8,19 @@ nav_order: 4
 # Assignments
 
 |---------------------------------|:----------:|
-| Engagement with Materials       |     20%    |
-| Class Participation             |     15%    |
-| Presentations                   |     15%    |
-| Midterm Exam                    |     20%    |
-| Final paper of Project          |     30%    |
+| Weekly responses                |     40%    |
+| class attendance                |     10%    |
+| Class presentations             |     15%    |
+| Midterm Exam                    |     25%    |
+| Final paper of Project          |     20%    |
 | **Total**                       |   **100%** |
 
 
 
 ## Term Assignments (70%)
+
+Quantify attendance & absence (2 percent of the final grade is removed for extra absence) the coach writes if its execused absence.
+
 
 ### Engagement with Materials (30%)
 
