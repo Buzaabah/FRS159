@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Reading
 
-Almost every week, we will read key texts that touch upon important themes on developing technology, highlight specific projects, or introduce a technique/methodology. Needless to say, these readings are crucial. They not only prepare you for the content of the lessons (and I will expect you to be familiar with them) but also set the stage for our discussions. All texts will be made available through the online platform [Perusall](https://www.perusall.com/), which enables collaborative reading. You will be able to annotate the texts and comment on each other’s annotations. I will also be able to see your annotations and comments, which will help me to prepare for our discussions.
+Almost every week, we will read key texts that touch upon important themes on developing technology, highlight specific projects, or introduce a technique/methodology. Needless to say, these readings are crucial. They not only prepare you for the content of the lessons (I expect you be familiar with them) but also set the stage for our discussions. All texts will be made available through the online platform [Perusall](https://www.perusall.com/), which enables collaborative reading. You will be able to annotate the texts and comment on each other’s annotations. I will also be able to see your annotations and comments, which will help me to prepare for our discussions.
 
 <!--
 ## Class Meeting Types
@@ -30,11 +30,11 @@ I understand that unavoidable situations can arise: sometimes life just happens.
 
 ## Slack
 
-While our course takes place in person, we will use _Slack_ as an additional communication platform. It serves as a space for posting [reflections](https://join.slack.com/t/frs159/shared_invite/zt-2pl1avtc5-R7ls3K~lDgq02kPn7iVTpA) on the assigned materials, sharing resources, like files and links, and seeking Make sure you join our _Slack_ workspace by using the invitation link provided in class!
+While our course takes place in person, we will use _Slack_ as an additional communication platform. It serves as a space for posting [reflections](https://join.slack.com/t/frs159/shared_invite/zt-2pl1avtc5-R7ls3K~lDgq02kPn7iVTpA) on the assigned materials, sharing resources, like files and links. Make sure you join our _Slack_ workspace by using the invitation link provided in class!
 
 ## Office Hours
 
-I'm available for office hours every Wednesday from 1:00-2:00pm at the [Center for Digital Humanities Firestone Library Floor B](https://cdh.princeton.edu/about/). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in digital humanities, or to help you find resources for your research. If you can't make it to office hours, feel free to email me to set up an appointment.
+I'm available for office hours every Wednesday from 1:00-2:00pm at the [Center for Digital Humanities Firestone Library Floor B](https://cdh.princeton.edu/about/). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in Technology for African languages, or to help you find resources for your study. If you can't make it to office hours, feel free to email me to set up an appointment.
 
 ## Class Etiquette
 
@@ -64,7 +64,7 @@ Since our sessions will involve working with digital tools, **you will need a la
 
 For a fair evaluation of your work, it is imperative to exercise honesty. All resources including generetive AI should be used in a responsible manner that aligns with the Honor Code of Princeton University **[Princeton University’s academic regulations](https://rrr.princeton.edu/2022/students-and-university/24-academic-regulations)**.
 
-When using generative AI should be seen as an opportunity to enhance your learning and understanding, rather than a shortcut to completing assignments. It is a tool for exploration, only use it to complement **your learning**.
+Using generative AI should be seen as an opportunity to enhance your learning and understanding, rather than a shortcut to completing assignments. It is a tool for exploration, only use it to complement **your learning**.
 
 ## COVID Protocol
 
