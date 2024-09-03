@@ -50,14 +50,14 @@ Keep in mind that the goal is to reflect on the materials, not to summarize them
 
 ### Class attendence (10%)
 
-Class attendence is an important aspect of this course, because alot will be covered the one 3 hour session. During the class discussion and presentation sessions you are expected to **contribute at least once**. It might be intimidating to speak up sometimes, however, you should be assured that your contributions are valuable. Diverse viewpoints and genuine dialogue are what make our discussions thrive. Please respect the [classroom etiquette](https://buzaabah.github.io/FRS159/policies/#class-etiquette) while sharing your thoughts.
+Class attendence is an important aspect of this course, because alot will be covered in a 3 hour session. During the class discussion and presentation sessions you are expected to **contribute at least once**. It might be intimidating to speak up sometimes, however, you should be assured that your contributions are valuable. Diverse viewpoints and genuine dialogue are what make our discussions thrive. Please respect the [classroom etiquette](https://buzaabah.github.io/FRS159/policies/#class-etiquette) while sharing your thoughts.
 
 ### Class Presentations (15%)
 
 Throughout this course, there will be opportunities to present your work. These will include, reading an article and present plus your final paper project.
 
 ### Midterm (15%)
-There will be a mid-term exam which will account for 25%
+There will be a mid-term exam which will account for 15%
 ## Final paper project (20%)
 TBA
 
