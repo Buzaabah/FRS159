@@ -11,7 +11,7 @@ nav_order: 4
 | Weekly responses                |     40%    |
 | class attendance                |     10%    |
 | Class presentations             |     15%    |
-| Midterm Exam                    |     25%    |
+| Midterm Exam                    |     15%    |
 | Final paper of Project          |     20%    |
 | **Total**                       |   **100%** |
 
