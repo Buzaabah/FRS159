@@ -22,6 +22,9 @@ Gmail generates smart reply responses based on messages etc. This module will in
   - [Ife Adebara, Muhammad Abdul-Mageed. “Towards Afrocentric NLP for African Languages:Where We Are and Where We Can Go.”](https://aclanthology.org/2022.acl-long.265.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022) Volume 1: Long Papers, pages 3814 - 3841.
   - [Atnafu Lambebo Tonja, Tadesse Destaw Belay, Israel Abebe Azime, et. al.,"Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities"](https://aclanthology.org/2023.rail-1.14.pdf) In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 126–139.
   - [Chesire Emmanue, Kipkebut Andrew. "Current State, Challenges and Opportunities for Natural Language Processing Research and Development in Africa: A Systemic Review"](https://openreview.net/pdf?id=9CsL0PvDDV) In AfricaNLP workshop at the International Conference on Learning Representation (ICLR 2024).
+- 
+- Additional Reading
+  - [Hedderich et al., A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://app.perusall.com/courses/training-computers-to-understand-african-languages/a-survey-on-recent-approaches-for-natural-language-processing-in-low-resource-scenarios-2021-naacl-main-201-pdf) Proceedings of the 2021 conference of the North American Chapter of ACL-HLT pages 2545-2568
 
 </div>
 </details>
