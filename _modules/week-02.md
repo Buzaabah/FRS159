@@ -23,11 +23,11 @@ Videos
 The Languages of Africa https://www.youtube.com/watch?v=1WhIiqHr0q0
 Example of Khoisan - Siki Jo-An – ‘The Click Song' | Blind Audition | The Voice SA: Seaso 3 | [M-Net](https://www.youtube.com/watch?v=W319s4Tvp9Y)
 
-Additional materials:
-Chapter3 (An Introduction to African Languages): Identify linguistic features prevalent in linguistic families
-International Journal of American Linguistics
-African languages an Introduction Bernd Heine & Derek Nurse Cambridge University Press 2000
-The Linguistic Face of Africa by Benard Odoyo Okal 2016
+Additional materials
+- Chapter3 (An Introduction to African Languages): Identify linguistic features prevalent in linguistic families
+- International Journal of American Linguistics
+- African languages an Introduction Bernd Heine & Derek Nurse Cambridge University Press 2000
+- The Linguistic Face of Africa by Benard Odoyo Okal 2016
 
 {% comment %}
 
