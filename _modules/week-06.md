@@ -22,6 +22,15 @@ title: Week 6 - NLP and social media
  
 - Supplementary/Additional Readings
     - Ong, W. J. (1982). Orality and literacy: The technologizing of the word. London: Methuen. Publishing House.
+    - African Languages and Information and Communication Technologies: Literacy, Access, and the Future
+
+<!--
+3. Introduction
+2 and for which there is not a primary cultural center in another region.
+Donald Z. Osborn
+Bisharat, Ltd.
+-->
+
 </div>
 </details>
 

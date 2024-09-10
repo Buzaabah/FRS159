@@ -14,14 +14,22 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   <div markdown="1">
     
 - [Slides coming soon]
-- Pre-Class Readings: coming soon
-  - C. Tucker Childs - An intro to African languages
-  - The State and fate…
+- [G Tucker Childs An Introduction to African Languages], Chapter-1: Introduction and Chapter-2: Classification of African languages. 
+Chapter1: Introduction
+Chapter2: Classification of African Languages
+- [Sands et al., AFRICAN LANGUAGES](https://app.perusall.com/courses/training-computers-to-understand-african-languages/african-languages-sandsgunnink_forth-53),  The SAGE Encyclopedia of Human Communication Sciences and Disorders. ed. Jack S. Damico & Martin J. Ball. Thousand Oaks, CA: Sage Publishers. pp. 1020-1024. (May 2019)
+
  
 Videos
 [The Amazing Languages of Africa]( https://www.youtube.com/watch?v=-qJuVWpT6CU) - sounds, grammar and writing systems of African languages.
 The Languages of Africa https://www.youtube.com/watch?v=1WhIiqHr0q0
 Example of Khoisan - Siki Jo-An – ‘The Click Song' | Blind Audition | The Voice SA: Seaso 3 | [M-Net](https://www.youtube.com/watch?v=W319s4Tvp9Y)
+
+Additional materials:
+Chapter3 (An Introduction to African Languages): Identify linguistic features prevalent in linguistic families
+International Journal of American Linguistics
+African languages an Introduction Bernd Heine & Derek Nurse Cambridge University Press 2000
+The Linguistic Face of Africa by Benard Odoyo Okal 2016
 
 {% comment %}
 
