@@ -22,6 +22,8 @@ Videos
 [The Amazing Languages of Africa]( https://www.youtube.com/watch?v=-qJuVWpT6CU) - sounds, grammar and writing systems of African languages.
 The Languages of Africa https://www.youtube.com/watch?v=1WhIiqHr0q0
 Example of Khoisan - Siki Jo-An – ‘The Click Song' | Blind Audition | The Voice SA: Seaso 3 | [M-Net](https://www.youtube.com/watch?v=W319s4Tvp9Y)
+[Pelonomi Moiloa: Decolonizing Artificial Intelligence to empower local talent](https://www.youtube.com/watch?v=ge3VNMHuOP4)
+[Sabelosethu Mhlambi: Decolonizing AI](https://www.youtube.com/watch?v=UqVwfuIuU2k&t=1693s)
 
 Additional materials
 - Chapter3 (An Introduction to African Languages): Identify linguistic features prevalent in linguistic families
