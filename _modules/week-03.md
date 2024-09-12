@@ -18,12 +18,14 @@ In this module, we will start on our class-crowdsourced project featuring a data
 - Readings
 
 - Barasa & Mous – Oral and written Interface in SMS
-- A Digital Africa Kiswahili Holds the Key Stephen by Njihia Kamau
-- [A Brief Introduction to the Bantu Languages](https://utalk.com/news/a-brief-introduction-to-the-bantu-languages/)
-- The complexities of noun class system in the acquisition and learning of Swahili language.,  Leonard Muaka Howard University
+- [Njihia s. Kamau., A Digital Africa Kiswahili Holds the Key] (https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-AJX2WEarWZJJhtJyZ)
+- [A Brief Introduction to the Bantu Languages](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-WNqJkwJmcCoxPjDt5)
+- [Leonard Muaka., The complexities of noun class system in the acquisition and learning of Swahili language](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-gcKgTd9Adc8WsvNHs)., Howard University
  
 Video
 The Swahili Language – [A native language that absorbed a lot of foreign vocab](https://www.youtube.com/watch?v=Q_9QfBSbw8g)
+
+Additional readings
 
 
 
