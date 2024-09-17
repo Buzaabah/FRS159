@@ -45,7 +45,7 @@ After your interaction on _Perusall_, Submit a 2-page reflection every week. Ref
 
 Keep in mind that the goal is to reflect on the materials, not to summarize them. If you are unsure about the length of your reflection, please feel free to ask me. Your grade will be determined by the depth and quality of your reflections, focusing on your critical engagement with the readings rather than agreement with their content.
 
-**Deadline**: Please ensure both your annotations on _Perusall_ and your 2-page reflection are submitted by 9:00AM on the day of our class.
+**Deadline**: Please ensure your 2-page reflection are submitted by Monday mid-night and your annotations on _Perusall_ submitted by 9:00AM on the day of our class.
 
 
 ### Class attendence (10%)
