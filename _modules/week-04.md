@@ -16,7 +16,6 @@ Gmail generates smart reply responses based on messages etc. This module will in
 - Pre-Class Reflection:
 - [Chapter 2: Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-rb5YyN2Er4qsYW9nE) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Try to answer the following; what is a document and document segmentation? what is a sentence and sentence segmentation? what do you understand by a corpora, what is tokenization? Explain these terms; stopwords, stemming, lemmatization.
-    - Skim through Chapters 13,14, 15 and 16 to have a broad understanding of the Applications of NLP, no need to understand the technical details.
     
 - Related papers;
   - [Ruder, Sebastian on Why You Should Do NLP Beyond English](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-3Ee9R5mGnvwFSNYi6)
@@ -25,6 +24,8 @@ Gmail generates smart reply responses based on messages etc. This module will in
   - [Chesire Emmanue, Kipkebut Andrew. "Current State, Challenges and Opportunities for Natural Language Processing Research and Development in Africa: A Systemic Review"](https://openreview.net/pdf?id=9CsL0PvDDV) In AfricaNLP workshop at the International Conference on Learning Representation (ICLR 2024).
 - 
 - Additional Reading
+- Skim through Chapters 13,14, 15 and 16 of the book [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) to have a broad understanding of the Applications of NLP, no need to understand the technical details.
+    
   - [Hedderich et al., A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://app.perusall.com/courses/training-computers-to-understand-african-languages/a-survey-on-recent-approaches-for-natural-language-processing-in-low-resource-scenarios-2021-naacl-main-201-pdf) Proceedings of the 2021 conference of the North American Chapter of ACL-HLT pages 2545-2568
 
 </div>
