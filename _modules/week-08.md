@@ -10,7 +10,7 @@ In this module we will have a sufficient overview of search and search engine.
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 24</span>
+    <span class="date-label">Oct 31</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Search engine</span>
   </summary>
