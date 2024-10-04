@@ -39,7 +39,7 @@ Bisharat, Ltd.
   <summary class="session-summary">
     <span class="date-label">Oct 10</span>
     <span class="label label-red">Mid-term</span>
-    <span class="session-title">NACLO</span>
+    <span class="session-title">NACLO and Project Demo</span>
   </summary>
   <div markdown="1">
 - [Slides coming soon]
