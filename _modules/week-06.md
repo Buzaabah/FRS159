@@ -12,6 +12,7 @@ title: Week 6 - NLP and social media
     <span class="session-title">NACLO and Project Demo</span>
   </summary>
   <div markdown="1">
+- [Mid-term exam](https://docs.google.com/document/d/15PNfooX7ayY3lYDmvZONSiL6kVEt3gt3iC8FY27ppCc/edit?usp=sharing)
 </div>
 </details>
 
@@ -22,7 +23,6 @@ title: Week 6 - NLP and social media
     <span class="session-title">NLP and social media </span>
   </summary>
   <div markdown="1">
-- [Slides coming soon]
 - Readings
     - Soffer, O. (2010). "Silent Orality": Towards Conceptualization of the digital oral features in CMC and SMS texts, Communication Theory 20, p. 387-404.
     - [Digital Culture is Like Oral Culture Written Down](https://medium.com/the-civic-beat/digital-culture-is-like-oral-culture-written-down-df896b287782#:~:text=Emoji%2C%20messenger%20stickers%2C%20walkie%20talkie,%2C%20storytelling%2C%20talking%2C%20etc)
