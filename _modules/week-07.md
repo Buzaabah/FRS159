@@ -21,9 +21,9 @@ In this week we will discuss techniques for extracting semantic content from tex
 - [Adelani et al., MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66.pdf). Read from abstract to section 4 about named entity for African languages.
 - [Cheikh et al., MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://aclanthology.org/2023.acl-long.609.pdf). Read from abstract section 5 about parts of speech for African languages.
 
--  Practice Annotation for the Named Entity task:
-    - Named Entity Recognition [Annotation guideline](https://docs.google.com/document/d/1XvSVMI9pI9jaQsT6wrHSNrYjBniT0UygK0xd2T3tY3U/edit?usp=sharing) 
-    - Part-of-Speech [Annotation guideline](https://docs.google.com/document/d/1t2jVVIqMUhAn9pkwUzoSpiminLY3chQ2mNEW9OB5D2s/edit?usp=sharing)
+-  Practice Annotation:
+    - Named Entity Recognition task [Annotation guideline](https://docs.google.com/document/d/1XvSVMI9pI9jaQsT6wrHSNrYjBniT0UygK0xd2T3tY3U/edit?usp=sharing) 
+    - Part-of-Speech task [Annotation guideline](https://docs.google.com/document/d/1t2jVVIqMUhAn9pkwUzoSpiminLY3chQ2mNEW9OB5D2s/edit?usp=sharing)
     - We will practice using [African language text corpus](https://github.com/masakhane-io/lacuna_pos_ner/tree/main/language_corpus)  to annotate African languages.
     - We will use an [external annotation tool](https://tecoholic.github.io/ner-annotator/) to annotate Named Entities in African languages text.
 
