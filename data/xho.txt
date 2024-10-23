@@ -1,0 +1,11 @@
+"en:" "In February, Hassans administration lifted bans on four media outlets: Mseto, Mawio, Mwanahalisi and Tanzania Daima."
+"xho:" "NgoFebruwari, ulawulo lukaHassan lususe ukuvalwa kwemithombo yeendaba ezine: iMseto, iMawio, iMwanahalisi kunye neTanzania Daima."
+"en:" "He was convicted in April 2020 of obstructing police investigations, and paid a fine of 3 million Tanzanian shillings, or $1,300, rather than face a year behind bars, according to the Committee to Protect Journalists."
+"xho:" "Wafunyaniswa enetyala ngo-Epreli ka-2020 ngokuthintela uphando lwamapolisa, kwaye wahlawula imali ezizigidi ezi-3 zeerandi zaseTanzania, okanye i-1,300 yeedola, kunokuba ajongane nonyaka entolongweni, ngokutsho kweKomiti yokukhusela iintatheli."
+"en" "Nigerian President Muhammadu Buhari said earlier this week that the war against the extremists is "approaching its conclusion," citing continued military airstrikes and the mass defection of thousands of the fighters, some of whom analysts say are laying down their arms because of infighting within the jihadi group."
+"xho:" "INigeria, ilizwe laseAfrika elinabantu abaninzi abazizigidi ezingama-206, liyaqhubeka nokulwa novukelo oluneminyaka eyi-10 kumntla-mpuma ngabavukeli benkolo yamaSilamsi beBoko Haram kunye nehlumelo layo, i-Islamic State West Africa Province."
+"en:" "Between January and March alone, security personnel removed dozens of articles from the Juba Monitor, Anna Namiriano, editor-in-chief of an English-language daily, told South Sudan in Focus."
+"xho:" "Phakathi kukaJanuwari noMatshi kuphela, abasebenzi bezokhuseleko basuse intaphane yamanqaku kwiJuba Monitor, uAnna Namiriano, umhleli oyintloko wemihla ngemihla yolwimi lwesiNgesi, uxelele iSouth Sudan kuFocus."
+"en:" "On December 30, Sudanese security forces stormed the offices of three television stations — al-Arabiya, al-Hadath and al-Sharq — firing tear gas, assaulting staff and destroying broadcast equipment, according to local news media."
+"xho:" "Nge-30 kaDisemba, imikhosi yezokhuseleko yaseSudan yangena kwii-ofisi zezikhululo ezintathu zikamabonwakude - i-al-Arabiya, i-al-Hadath kunye ne-al-Sharq - iqhumisa igesi yeenyembezi, ibetha abasebenzi kwaye itshabalalisa izixhobo zokusasaza, ngokutsho kweendaba zasekuhlaleni."
+

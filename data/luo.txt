@@ -1,0 +1,10 @@
+"en": "The event will later proceed to Estonia, Belgium, Greece, Finland, Spain and end in Japan on November 14." 
+"luo": "Bang'e piemno biro dhi  Estonia, Belgium, Greece, Finland, Spain kae to orumo  Japan  Novemba 14."
+"en": "In October 2020, KCB also received approval for US$150 million, from the International Finance Corporation (IFC) as a lead syndicator, to support the growth of the Bank’s sustainable climate finance portfolio and scale-up lending to micro, small and medium enterprises including women-owned businesses."
+"luo": "E Oktoba 2020, International Finance Corporation, IFC ne oyie ni gibiro miyo KCB dola milion 150 kaka bengi ma giriworego moloyo Kenya. Onego giti gi pesagi e siro okenge mag konyo chal mar kor yamo kendo gitigo e medo pesa ma giholo ohendi matindo kod modundo moriwo ohendni mag mine."
+"en": "“So far we have partnered with Laikipia and Kiambu County governments.” She said."
+"luo": "Ne owacho ni: “Gie sani wasetiyo e kaunti mag  Laikipia kod Kiambu.”
+"en": "The beneficiaries will receive financing solutions ranging between Sh100,000 to Sh5 million and payable within 36 months."
+"luo": "Ohendni ma wabiro konyo biro yudo chakre siling 100,000 nyaka milion 5 ma gibiro chulo kuom dweche 36."
+"en": "The facility has also been discounted to cushion the MSMEs from the negative effects of Covid-19."
+"luo": "KCB bende osedwoko chien chudo moko mondo gi kony MSME nyagruok gi pek ma Korona okelo."
