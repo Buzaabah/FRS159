@@ -24,7 +24,7 @@ In this week we will discuss techniques for extracting semantic content from tex
 -  Practice Annotation:
     - Named Entity Recognition task [Annotation guideline](https://docs.google.com/document/d/1XvSVMI9pI9jaQsT6wrHSNrYjBniT0UygK0xd2T3tY3U/edit?usp=sharing) 
     - Part-of-Speech task [Annotation guideline](https://docs.google.com/document/d/1t2jVVIqMUhAn9pkwUzoSpiminLY3chQ2mNEW9OB5D2s/edit?usp=sharing)
-    - We will practice using [African language text corpus](https://github.com/masakhane-io/lacuna_pos_ner/tree/main/language_corpus)  to annotate African languages.
+    - We will practice using [African language text corpus](https://github.com/Buzaabah/FRS159/tree/main/data)  to annotate African languages.
     - We will use an [external annotation tool](https://tecoholic.github.io/ner-annotator/) to annotate Named Entities in African languages text.
 
 
