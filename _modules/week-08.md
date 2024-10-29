@@ -18,7 +18,7 @@ In this module we will have a sufficient overview of search and search engine.
 - [Slides coming soon]
 
 Related Readings
-- [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) Third Edition by Daniel Jurafsky, James H. Martin. 
+- [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/training-computers-to-understand-african-languages/search-750897529) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Read Chapter 14 about Question answering and Information retrieval, no need to go in details, it is okay if you don't understand the technical details.
     - Read section 14.3.2 about datasets used to evaluate question answering systems.  
 - [Odunayo et al., AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://aclanthology.org/2023.findings-emnlp.997.pdf) Read from abstract up to section 2.4 summarize in one page the paper.
