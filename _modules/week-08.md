@@ -22,6 +22,7 @@ Related Readings
     - Read Chapter 14 about Question answering and Information retrieval, no need to go in details, it is okay if you don't understand the technical details.
     - Read section 14.3.2 about datasets used to evaluate question answering systems.  
 - [Odunayo et al., AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://aclanthology.org/2023.findings-emnlp.997.pdf) Read from abstract up to section 2.4 summarize in one page the paper.
+- [Practice data](https://github.com/Buzaabah/FRS159/blob/main/data/daily_princetonian.txt)
 
 
 </div>
