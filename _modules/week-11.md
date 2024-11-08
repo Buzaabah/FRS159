@@ -29,7 +29,7 @@ else:
   <div markdown="1">
 - [Slides coming soon]
 - Readings:
-  - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) Third Edition by Daniel Jurafsky, James H. Martin. 
+  - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/16.pdf) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Read Chapter 16 about automatic speech recognition (ASR), text to speech (TTS) and other speech tasks.
 
 - [Nabende et al., Building Text and Speech Benchmark Datasets and Models for Low-Resourced East African Languages: Experiences and Lessons](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ail2.92). Read from abstract to section 4 about named entity for African languages.
