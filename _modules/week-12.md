@@ -12,5 +12,12 @@ title: Week 12 - Project presentations
   </summary>
   <div markdown="1">
 - [Slides coming soon]
+- A group will choose an African languages or languages and create a profile around the language:
+    1. Language family, structure, where it is spoken, some statistics, interesting fact, a video or audio etc.
+    2. Work on any of the tasks and or address a problem we covered in class for that language.
+
+- Prepare slide presentation and or demonstration for 15 minutes and 5 minutes for QA.
+- Submit the slides plus a maximum 2 page individual report of the project.
+
 </div>
 </details>
