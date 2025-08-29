@@ -1,4 +1,5 @@
 
+---
 title: African Languages in Age of AI (AAA) Speaker Series
 week: 7
 date: 2025-11-20
