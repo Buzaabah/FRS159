@@ -5,6 +5,7 @@ title: Week 2 - Introduction to main linguistic groups of Africa
 {% comment %}
 This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concept, and the methodologies that propel the field forward. Later on this week, we focus on practical applications of metadata and data description.
 {% endcomment %}
+
 <details>
   <summary class="session-summary">
     <span class="date-label">Sep 12</span>
@@ -12,7 +13,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="session-title">Linguistic groups of Africa</span>
   </summary>
   <div markdown="1">
-{% endcomment %}
+
    
 - [Slides]
 <!-- (https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-ccQk6sTvxroutiKsi)
