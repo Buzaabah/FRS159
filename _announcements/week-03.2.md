@@ -1,4 +1,4 @@
-<!---
+
 title: African Languages in Age of AI (AAA) Speaker Series
 week: 7
 date: 2025-11-20
@@ -12,4 +12,3 @@ The week of Nov 20th we have a guest [Juliana Rotich](https://www.linkedin.com/p
 Prepare questions for the speaker!!
 
 --Happy
->

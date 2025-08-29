@@ -1,4 +1,4 @@
-<!---
+
 title: African Languages in Age of AI (AAA) Speaker Series
 week: 3
 date: 2025-10-30
@@ -12,4 +12,3 @@ The week of Oct 30th we have a guest [Prof. David Ifeoluwa Adelani](dadelani.git
 Prepare at least one question for the speaker!!
 
 --Happy
->
