@@ -12,7 +12,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="session-title">Linguistic groups of Africa</span>
   </summary>
   <div markdown="1">
-
+{% endcomment %}
    
 - [Slides]
 <!-- (https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-ccQk6sTvxroutiKsi)
