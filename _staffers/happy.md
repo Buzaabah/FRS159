@@ -5,7 +5,7 @@ email: happy.buzaaba@princeton.edu
 photo: Happy.jpeg
 ---
 
-Office Hours: Office Hours: 1-2pm on Wednesday, come find me at the [Tiger Tea Room](https://dining.princeton.edu/where-eat/locations/tiger-tea-room)!
+Office Hours: Office Hours: 1-2pm on Wednesday, come find me at the [AI LAB](https://ai.princeton.edu/ai-lab)!
 
 {% comment %}
 <!--
