@@ -12,7 +12,11 @@ title: Week 6 - NLP and social media
     <span class="session-title">NACLO and Project Demo</span>
   </summary>
   <div markdown="1">
-- [Mid-term exam](https://docs.google.com/document/d/15PNfooX7ayY3lYDmvZONSiL6kVEt3gt3iC8FY27ppCc/edit?usp=sharing)
+- [Mid-term exam]
+<!--
+(https://docs.google.com/document/d/15PNfooX7ayY3lYDmvZONSiL6kVEt3gt3iC8FY27ppCc/edit?usp=sharing)
+-->
+
 </div>
 </details>
 
