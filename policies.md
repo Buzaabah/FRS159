@@ -34,7 +34,7 @@ While our course takes place in person, we will use _Slack_ as an additional com
 
 ## Office Hours
 
-I'm available for office hours every Wednesday from 1:00-2:00pm at the [Tiger Tea Room](https://dining.princeton.edu/locations-hours/tiger-tea-room#:-:text=tiger%20tea%20room). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in Technology for African languages, or to help you find resources for your study. If you can't make it to office hours, feel free to email me to set up an appointment.
+I'm available for office hours every Wednesday from 1:00-2:00pm at the [AI LAB](https://ai.princeton.edu/). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in languages technology, or to help you find resources for your study. If you can't make it to office hours, feel free to email me to set up an appointment.
 
 ## Class Etiquette
 
