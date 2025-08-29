@@ -1,4 +1,4 @@
----
+<!---
 title: African Languages in Age of AI (AAA) Speaker Series
 week: 11
 date: 2024-11-22
@@ -12,3 +12,4 @@ We will all gather at Friend Center 006 on Friday November 22 at 4:30 for our th
 Prepare questions for the speaker!!
 
 --Happy
+>
