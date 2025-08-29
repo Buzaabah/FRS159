@@ -12,7 +12,10 @@ In this module, we will discuss existing African language datasets, we will prac
     <span class="session-title">Corpus and corpus annotation</span>
   </summary>
   <div markdown="1">
-- [Slides](https://app.perusall.com/courses/training-computers-to-understand-african-languages/frs159_slides_week_5)
+- [Slides]
+<!--
+(https://app.perusall.com/courses/training-computers-to-understand-african-languages/frs159_slides_week_5)
+-->
 - Reflection:
   - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), summerise in one paragraph what is annotation and why it is necessary.
   - [Adelani et al., MasakhaNER: Named Entity Recognition for African Languages](https://app.perusall.com/courses/training-computers-to-understand-african-languages/masakhaner). Read abstract, section 3 of focus languages and section 4 about the Data and annotation methodology.
