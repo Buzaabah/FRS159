@@ -16,10 +16,11 @@ In this module, we will have a high-level discussion about language technology i
 <!--(https://app.perusall.com/courses/training-computers-to-understand-african-languages/frs159_slides_week1)
 -->
 - Pre-Class Reflection:
-- Take a Look at the [Ethnologue page](https://www.ethnologue.com/), See if you can answer the following questions;
+- Take a Look at the [Ethnologue page](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/_/dashboard/documents/document-YmrF57duTvgCdHxNx), See if you can answer the following questions;
     - How many languages are spoken in the world today? How many of the spoken languages are from Africa? What countries have the most languages? What continents have the most indigenous languages?
-- Read through this [blog](https://www.marekrei.com/blog/geographic-diversity-of-nlp-conferences/), see if you can understand the status of Natural Language Processing Research for African languages.
+- Read through this [blog](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/the-geographic-diversity-of-nlp-conferences-marek-rei), see if you can understand the state of Natural Language Processing Research for African languages in 2019.
 - Read through the [Masakhane](https://www.masakhane.io/), and the [AfricaNLP](https://sites.google.com/view/africanlp2024/home?authuser=0) pages,  make a reflection about Masakhane, AfricaNLP and the efforts being made to create technology for African languages.
+- Learn about African languages [One Thousand Languages](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/one-thousand-languages-816405345)
 - About technology and technology for African languages, a reflection about [Generative AI](https://ig.ft.com/generative-ai/).
 
 </div>
