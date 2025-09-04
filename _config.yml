@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Teaching Computers to Understand African Languages
 tagline: Course Website 
-description: Reading materials and assignments for the course Teaching Computers to Understand African Languages, taught at Princeton University in the Fall 2024.
+description: Reading materials and assignments for the course Teaching Computers to Understand African Languages, taught at Princeton University in the Fall 2025.
 author: Happy Buzaaba
 baseurl: '/FRS159' # the subpath of your site, e.g. /blog
 url: 'https://github.com/Buzaabah' # the base hostname & protocol for your site, e.g. http://example.com

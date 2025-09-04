@@ -8,7 +8,7 @@ seo:
   name: FRS159
 ---
 
-# Teaching Computers to Understand African Languages Fall 2024 
+# Teaching Computers to Understand African Languages Fall 2025 
 
 ## Description
 
