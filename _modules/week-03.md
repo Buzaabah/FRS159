@@ -8,7 +8,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Sept 19</span>
+    <span class="date-label">Sept 18</span>
     <span class="label label-blue">Discussion</span>
     <!-- span class="session-title"><del>Exploring Princeton's Postcards</del></span -->
     <span class="session-title">Introduction to (Ki)Swahili Language</span>

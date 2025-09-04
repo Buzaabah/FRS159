@@ -7,7 +7,7 @@ area of human creativity. This module introduces machine translation (MT), the u
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Nov 14</span>
+    <span class="date-label">Nov 13</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Machine Translation</span>
   </summary>

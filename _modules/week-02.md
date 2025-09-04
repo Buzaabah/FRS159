@@ -8,7 +8,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Sep 12</span>
+    <span class="date-label">Sep 11</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Linguistic groups of Africa</span>
   </summary>

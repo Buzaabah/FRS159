@@ -22,7 +22,7 @@ else:
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Nov 21</span>
+    <span class="date-label">Nov 20</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">complexities of spoken language</span>
   </summary>

@@ -9,7 +9,7 @@ In this week we will discuss techniques for extracting semantic content from tex
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 24</span>
+    <span class="date-label">Oct 23</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Information extraction</span>
   </summary>

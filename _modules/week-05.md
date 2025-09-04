@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Experience with corpus and corpus annotation
+title: Week 5 - Multilingual NLP and corpus annotation
 ---
 
 
@@ -7,7 +7,7 @@ In this module, we will discuss existing African language datasets, we will prac
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 3</span>
+    <span class="date-label">Oct 2</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Corpus and corpus annotation</span>
   </summary>

@@ -6,7 +6,7 @@ This week will discuss sentiment analysis, the extraction of sentiment, the posi
 
 <details>
   <summary class="session-summary">
-    <span class="date-label"> Nov 7</span>
+    <span class="date-label"> Nov 6</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Sentiment of texts</span>
   </summary>

@@ -6,7 +6,7 @@ title: Week 12 - Project presentations
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Dec 5</span>
+    <span class="date-label">Dec 4</span>
     <span class="label label-green">Present</span>
     <span class="session-title">Present final project</span>
   </summary>

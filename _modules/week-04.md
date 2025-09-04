@@ -7,9 +7,9 @@ Gmail generates smart reply responses based on messages etc. This module will in
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Sept 26</span>
+    <span class="date-label">Sept 25</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Introduction to NLP</span>
+    <span class="session-title">Introduction to NLP and LLMs</span>
   </summary>
   <div markdown="1">
 - [Slides]
