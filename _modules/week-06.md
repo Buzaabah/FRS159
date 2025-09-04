@@ -22,7 +22,7 @@ title: Week 6 - NLP and social media
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 10</span>
+    <span class="date-label">Oct 09</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">NLP and social media </span>
   </summary>
