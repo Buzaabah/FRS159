@@ -12,9 +12,8 @@ In this module, we will have a high-level discussion about language technology i
   </summary>
     <div markdown="1">
 
-- [Slides]
-<!--(https://app.perusall.com/courses/training-computers-to-understand-african-languages/frs159_slides_week1)
--->
+- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs159_slides_w1-autosaved)
+
 - Pre-Class Reflection:
 - Take a Look at the [Ethnologue page](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/just-a-moment-897097752), Try to answer the following questions;
     - How many languages are spoken in the world today? How many of the spoken languages are from Africa? What countries have the most languages? What continents have the most indigenous languages?
