@@ -22,9 +22,9 @@ In this module, we will start on our class-crowdsourced project featuring a data
 {% endcomment %}
 
 - Barasa & Mous – Oral and written Interface in SMS
-- [Njihia s. Kamau., A Digital Africa Kiswahili Holds the Key](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-AJX2WEarWZJJhtJyZ)
-- [A Brief Introduction to the Bantu Languages](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-WNqJkwJmcCoxPjDt5)
-- [Leonard Muaka., The complexities of noun class system in the acquisition and learning of Swahili language](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-gcKgTd9Adc8WsvNHs)., Howard University
+- [Njihia s. Kamau., A Digital Africa Kiswahili Holds the Key](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/a-digital-divide-kiswahili-holds-the-key)
+- [A Brief Introduction to the Bantu Languages](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/a-brief-introduction-to-the-bantu-languages-utalk-blog)
+- [Leonard Muaka., The complexities of noun class system in the acquisition and learning of Swahili language](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/the_complexities_of_noun_class_syst-6)., Howard University
  
 Video
 The Swahili Language – [A native language that absorbed a lot of foreign vocab](https://www.youtube.com/watch?v=Q_9QfBSbw8g)
