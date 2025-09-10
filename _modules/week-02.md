@@ -18,7 +18,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 - [Slides]
 <!-- (https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-ccQk6sTvxroutiKsi)
 -->
-- [G Tucker Childs An Introduction to African Languages](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-EkuiFMNdWiYidPxJe), Chapter-1: Introduction and Chapter-2: Classification of African languages.
+- [G Tucker Childs An Introduction to African Languages](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/an-introduction-to-african-languages-pdf47-pdf), Chapter-1: Introduction and Chapter-2: Classification of African languages.
 - [Sands et al., AFRICAN LANGUAGES](https://app.perusall.com/courses/training-computers-to-understand-african-languages/african-languages-sandsgunnink_forth-53),  The SAGE Encyclopedia of Human Communication Sciences and Disorders. ed. Jack S. Damico & Martin J. Ball. Thousand Oaks, CA: Sage Publishers. pp. 1020-1024. (May 2019)
 
  
