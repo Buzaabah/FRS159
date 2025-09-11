@@ -16,10 +16,8 @@ In this module, we will start on our class-crowdsourced project featuring a data
   </summary>
   <div markdown="1">
 
-- [Slides]
-{% comment %}
-(https://app.perusall.com/courses/training-computers-to-understand-african-languages/frs-159-week-2-and-3-languages-of-africa)
-{% endcomment %}
+- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/week-2_3-languages-of-africa)
+
 
 - Barasa & Mous – Oral and written Interface in SMS
 - [Njihia s. Kamau., A Digital Africa Kiswahili Holds the Key](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/a-digital-divide-kiswahili-holds-the-key)
