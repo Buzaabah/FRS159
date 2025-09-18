@@ -16,7 +16,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
   </summary>
   <div markdown="1">
 
-- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/week-2_3-languages-of-africa)
+- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-week_3-languages-of-africa)
 
 
 - Barasa & Mous – Oral and written Interface in SMS
