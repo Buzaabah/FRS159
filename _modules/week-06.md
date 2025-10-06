@@ -24,10 +24,10 @@ title: Week 6 - Multilingual NLP and corpus annotation
   <summary class="session-summary">
     <span class="date-label">Oct 09</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">NLP and social media </span>
+    <span class="session-title">Multilingual NLP and corpus annotation </span>
   </summary>
   <div markdown="1">
-  
+
 - Readings
   - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), summerise in one paragraph what is annotation and why it is necessary.
   - [Adelani et al., MasakhaNER: Named Entity Recognition for African Languages](https://app.perusall.com/courses/training-computers-to-understand-african-languages/masakhaner). Read abstract, section 3 of focus languages and section 4 about the Data and annotation methodology.
