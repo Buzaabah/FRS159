@@ -9,10 +9,11 @@ title: Week 6 - Multilingual NLP and corpus annotation
   <summary class="session-summary">
     <span class="date-label">Oct 09</span>
     <span class="label label-red">Mid-term</span>
-    <span class="session-title">TBD</span>
+    <span class="session-title">Midterm Paper</span>
   </summary>
   <div markdown="1">
-- [Mid-term exam]
+
+- [Mid-term instructions](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-midterm-paper-frs-159-midterm-paper)
 <!--
 (https://docs.google.com/document/d/15PNfooX7ayY3lYDmvZONSiL6kVEt3gt3iC8FY27ppCc/edit?usp=sharing)
 -->
