@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Multilingual NLP and corpus annotation
+title: Week 5 - Visit to Princeton HPC
 ---
 
 
@@ -12,7 +12,9 @@ In this module, we will discuss existing African language datasets, we will prac
     <span class="session-title">Multilingual NLP and corpus annotation</span>
   </summary>
   <div markdown="1">
-- [Slides]
+  
+- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/announcement-and-pre-thinking)
+
 <!--
 (https://app.perusall.com/courses/training-computers-to-understand-african-languages/frs159_slides_week_5)
 -->
