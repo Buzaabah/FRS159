@@ -3,7 +3,7 @@ title: Week 5 - Visit to Princeton HPC
 ---
 
 
-In this module, we will discuss existing African language datasets, we will practice named Entity recognition data annotation for African languages using an existing tool.
+We will visit the Princeton Forrestal campus which houses the Princeton University computing cluster used for AI research on campus.
 
 <details>
   <summary class="session-summary">
