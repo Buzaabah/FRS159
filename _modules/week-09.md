@@ -19,6 +19,6 @@ This week will discuss sentiment analysis, the extraction of sentiment, the posi
     - [YOSM: A NEW YOR `UB ´A SENTIMENT CORPUS FOR MOVIE REVIEWS](https://arxiv.org/pdf/2204.09711) Try to answer what is the contribution of this paper. 
 
 - Addition readings
-  -[Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/_/dashboard/documents/link-x9tuozhv2H2ZRQpt4)
+  - [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/_/dashboard/documents/link-x9tuozhv2H2ZRQpt4)
 </div>
 </details>
