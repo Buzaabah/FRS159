@@ -20,5 +20,6 @@ This week will discuss sentiment analysis, the extraction of sentiment, the posi
 
 - Addition readings
   - [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/_/dashboard/documents/link-x9tuozhv2H2ZRQpt4)
+  - [Tech Work Africa](https://techworkercommunityafrica.org/)
 </div>
 </details>
