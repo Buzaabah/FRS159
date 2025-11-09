@@ -16,7 +16,7 @@ area of human creativity. This module introduces machine translation (MT), the u
 - Readings coming soon
 - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/machine_translation) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Read Chapter 12 about Machine translation ..
-        - Section 13.5 talks about Translation in low-resource situations, Summerize in one page some of the approaches for dealing with low resource translation.
+        - Section 12.5 talks about Translation in low-resource situations, Summerize in one page some of the approaches for dealing with low resource translation.
         - Many issues in translating low-resource languages go beyond the purely technical, read about societal issues in section 12.5.3 and summerize problems and challenges faced when translating for low resource languages.
         - Machine translation raises many ethical issues, read section 12.7 of bias and ethical issues in machine translation.
 - [MENYO-20k: A Multi-domain English–Yor `ub´a Corpus for Machine Translation and Domain Adaptation](https://app.perusall.com/courses/training-computers-to-understand-african-languages/a_multi_domain_english_yoruba)
