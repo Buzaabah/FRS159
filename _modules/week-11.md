@@ -35,6 +35,8 @@ else:
 - [Nabende et al., Building Text and Speech Benchmark Datasets and Models for Low-Resourced East African Languages: Experiences and Lessons](https://app.perusall.com/courses/training-computers-to-understand-african-languages/datasets-and-models-for-low-resourced-east-african-languages-experiences-and-lesso). Read from abstract to section 4 about named entity for African languages.
     Read from abastract to section 7, you can leave section 8 of the models and experiments but read section 9 about the experiences, challenges, and lessons learned.
 - Phonemic Representation and Transcription for Speech to Text Applications for Under-resourced Indigenous African Languages: The Case of Kiswahili
+- Additional Readings:
+  - [Omnilingual ASR: Advancing Automatic Speech Recorgnition for 1,600+ Languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=omnilingual)
 
 </div>
 </details>
