@@ -9,7 +9,7 @@ In this module, we will discuss existing African language datasets, we will prac
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 09</span>
+    <span class="date-label">Oct 08</span>
     <span class="label label-red">Mid-term</span>
     <span class="session-title">Midterm Paper</span>
   </summary>
@@ -25,7 +25,7 @@ In this module, we will discuss existing African language datasets, we will prac
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 09</span>
+    <span class="date-label">Oct 08</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Multilingual NLP and corpus annotation </span>
   </summary>
