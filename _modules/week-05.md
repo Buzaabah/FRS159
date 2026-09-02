@@ -7,7 +7,7 @@ We will visit the Princeton Forrestal campus which houses the Princeton Universi
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Oct 2</span>
+    <span class="date-label">Oct 1</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Visit to Princeton HPC</span>
   </summary>
