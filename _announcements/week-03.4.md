@@ -1,4 +1,4 @@
----
+<!---
 title: Tour 1
 week: 3
 date: 2025-10-02
@@ -10,3 +10,4 @@ In preparation for our visit at the princeton HPC here are some thoughts to [thi
 
 
 --Happy
+-->
