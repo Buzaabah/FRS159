@@ -1,4 +1,4 @@
----
+<!---
 title: Final Project
 week: 3
 date: 2025-11-16
@@ -11,3 +11,4 @@ Please find the instructions for preparing the [Final Project](https://app.perus
 Prepare the presentation on December 4th.
 
 --Happy
+-->
