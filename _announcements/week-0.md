@@ -1,7 +1,7 @@
 ---
 title: Welcome
 week: 0
-date: 2025-09-04
+date: 2026-09-03
 ---
 
 Hello students --
