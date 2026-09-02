@@ -29,7 +29,7 @@ In this module, we will have a high-level discussion about language technology i
 
 <details>
   <summary class="session-summary">
-    <span class="date-label">Sep 5</span>
+    <span class="date-label">Sep 3</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Session-2</span>
   </summary>
