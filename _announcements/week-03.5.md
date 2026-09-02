@@ -1,4 +1,4 @@
----
+<!---
 title: Assignment 2
 week: 3
 date: 2025-10-12
@@ -11,3 +11,4 @@ Please find the instructions for preparing the [Midterm paper](https://app.perus
 Prepare the paper before deadline!
 
 --Happy
+-->
