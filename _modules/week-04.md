@@ -17,19 +17,20 @@ Gmail generates smart reply responses based on messages etc. This module will in
 (https://app.perusall.com/courses/training-computers-to-understand-african-languages/week-4_slides)
 -->
 - Pre-Class Reflection:
-- [Chapter 2: Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-rb5YyN2Er4qsYW9nE) Third Edition by Daniel Jurafsky, James H. Martin. 
-    - Try to answer the following; what is a document and document segmentation? what is a sentence and sentence segmentation? what do you understand by a corpora, what is tokenization? Explain these terms; stopwords, stemming, lemmatization.
+- [Chapter 2: Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/speech-and-language_2?filter=all) Third Edition by Daniel Jurafsky, James H. Martin. 
+    - Try to answer the following; what is a document and document segmentation? what is a sentence and sentence segmentation? what do you understand by a corpora, what is tokenization? Explain these terms; stopwords, stemming, lemmatization and different tokenization techniques.
     
 - Related papers;
-  - [Ruder, Sebastian on Why You Should Do NLP Beyond English](https://app.perusall.com/courses/training-computers-to-understand-african-languages/_/dashboard/documents/document-3Ee9R5mGnvwFSNYi6)
-  - [Ife Adebara, Muhammad Abdul-Mageed. “Towards Afrocentric NLP for African Languages:Where We Are and Where We Can Go.”](https://aclanthology.org/2022.acl-long.265.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022) Volume 1: Long Papers, pages 3814 - 3841.
-  - [Atnafu Lambebo Tonja, Tadesse Destaw Belay, Israel Abebe Azime, et. al.,"Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities"](https://aclanthology.org/2023.rail-1.14.pdf) In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 126–139.
-  - [Chesire Emmanue, Kipkebut Andrew. "Current State, Challenges and Opportunities for Natural Language Processing Research and Development in Africa: A Systemic Review"](https://openreview.net/pdf?id=9CsL0PvDDV) In AfricaNLP workshop at the International Conference on Learning Representation (ICLR 2024).
-- 
-- Additional Reading
+  - [Ruder, Sebastian on Why You Should Do NLP Beyond English](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/why-you-should-do-nlp-beyond-english?filter=all)
+  - [Jesujoba o., et al. “Charting the Landscape of Africa NLP: Mapping Progress and Shaping the Road Ahead .”](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/africa_nlp_progress?filter=all) Proceedings of the 2025 Conference on Emperical Methods in Natural Language Processing (EMNLP 2025).
+  - [Tolulope O., et. al.,"Decolonizing NLP for "Low-resource Languages" Applying Abebe Birhane's Relational Ethics](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/a-view-on-decolonizing-nlp-for-low-resource-languages-346740977?filter=all) Vol. 1 No. 1 (2023): AI
+
+<!--
+
 - Skim through Chapters 13,14, 15 and 16 of the book [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) to have a broad understanding of the Applications of NLP, no need to understand the technical details.
-    
-  - [Hedderich et al., A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://app.perusall.com/courses/training-computers-to-understand-african-languages/a-survey-on-recent-approaches-for-natural-language-processing-in-low-resource-scenarios-2021-naacl-main-201-pdf) Proceedings of the 2021 conference of the North American Chapter of ACL-HLT pages 2545-2568
+-->  
+- Additional Reading
+  - [Hedderich et al., A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/a-survey-on-recent-approaches-for-natural-language-processing-in-low-resource-scenarios-2021-naacl-main-201-pdf?filter=all) Proceedings of the 2021 conference of the North American Chapter of ACL-HLT pages 2545-2568
 
 </div>
 </details>
