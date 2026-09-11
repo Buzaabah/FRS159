@@ -16,13 +16,13 @@ In this module, we will start on our class-crowdsourced project featuring a data
   </summary>
   <div markdown="1">
 
-- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-week_3-languages-of-africa)
-
+<!-- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-week_3-languages-of-africa)
+-->
 
 - Barasa & Mous – Oral and written Interface in SMS
-- [Njihia s. Kamau., A Digital Africa Kiswahili Holds the Key](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/a-digital-divide-kiswahili-holds-the-key)
-- [A Brief Introduction to the Bantu Languages](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/a-brief-introduction-to-the-bantu-languages-utalk-blog)
-- [Leonard Muaka., The complexities of noun class system in the acquisition and learning of Swahili language](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/the_complexities_of_noun_class_syst-6)., Howard University
+- [Njihia s. Kamau., A Digital Africa Kiswahili Holds the Key](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/a-digital-divide-kiswahili-holds-the-key?filter=all)
+- [A Brief Introduction to the Bantu Languages](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/a-brief-introduction-to-the-bantu-languages-utalk-blog?filter=all)
+- [Leonard Muaka., The complexities of noun class system in the acquisition and learning of Swahili language](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/the_complexities_of_noun_class_syst-6?filter=all)., Howard University
  
 Video
 The Swahili Language – [A native language that absorbed a lot of foreign vocab](https://www.youtube.com/watch?v=Q_9QfBSbw8g)
