@@ -12,6 +12,7 @@ Gmail generates smart reply responses based on messages etc. This module will in
     <span class="session-title">Introduction to NLP and LLMs</span>
   </summary>
   <div markdown="1">
+  
 - [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/week_4_nlp_intro?filter=all)
 
 - Pre-Class Reflection:
