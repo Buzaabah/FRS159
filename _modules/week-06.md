@@ -15,8 +15,10 @@ In this module, we will discuss existing African language datasets, we will prac
   </summary>
   <div markdown="1">
 
-- [Mid-term instructions](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-midterm-paper-frs-159-midterm-paper)
+- [Due date of Mid-term paper]
 <!--
+(https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-midterm-paper-frs-159-midterm-paper)
+
 (https://docs.google.com/document/d/15PNfooX7ayY3lYDmvZONSiL6kVEt3gt3iC8FY27ppCc/edit?usp=sharing)
 -->
 
@@ -27,7 +29,10 @@ In this module, we will discuss existing African language datasets, we will prac
   <summary class="session-summary">
     <span class="date-label">Oct 08</span>
     <span class="label label-blue">Discussion</span>
+    <span class="session-title">Visit to Princeton HPC </span>
+    <!--
     <span class="session-title">Multilingual NLP and corpus annotation </span>
+    -->
   </summary>
   <div markdown="1">
 

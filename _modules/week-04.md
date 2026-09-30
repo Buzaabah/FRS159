@@ -12,10 +12,8 @@ Gmail generates smart reply responses based on messages etc. This module will in
     <span class="session-title">Introduction to NLP and LLMs</span>
   </summary>
   <div markdown="1">
-- [Slides]
-<!--
-(https://app.perusall.com/courses/training-computers-to-understand-african-languages/week-4_slides)
--->
+- [Slides](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/week_4_nlp_intro?filter=all)
+
 - Pre-Class Reflection:
 - [Chapter 2: Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/speech-and-language_2?filter=all) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Try to answer the following; what is a document and document segmentation? what is a sentence and sentence segmentation? what do you understand by a corpora, what is tokenization? Explain these terms; stopwords, stemming, lemmatization and different tokenization techniques.
