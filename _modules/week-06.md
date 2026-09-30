@@ -11,16 +11,11 @@ In this module, we will discuss existing African language datasets, we will prac
   <summary class="session-summary">
     <span class="date-label">Oct 08</span>
     <span class="label label-red">Mid-term</span>
-    <span class="session-title">Midterm Paper</span>
+    <span class="session-title">Due date of midterm paper</span>
   </summary>
   <div markdown="1">
 
-- [Due date of Mid-term paper]
-<!--
-(https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/frs-159-midterm-paper-frs-159-midterm-paper)
-
-(https://docs.google.com/document/d/15PNfooX7ayY3lYDmvZONSiL6kVEt3gt3iC8FY27ppCc/edit?usp=sharing)
--->
+- [Mid-term paper]
 
 </div>
 </details>
