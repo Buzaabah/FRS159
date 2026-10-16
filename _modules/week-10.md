@@ -1,24 +1,35 @@
 ---
-title: Week 10 - Bridging the language barrier using machine translation
----
+title: Week 10 - What is a Search engine – an under the hood view
 
+---
+<!-- Bridging the language barrier using machine translation -->
+
+As soon as computers were inveted we were asking them questions, because we need to know things. Systems in the early 1960s were answering questions about baseball statistics and scientific facts.
+In this module we will have a sufficient overview of search and search engine.
+
+<!--
 Translation, in its full generality, such as the translation of literature, or poetry, is a difficult, fascinating, and intensely human endeavor, as rich as any other
 area of human creativity. This module introduces machine translation (MT), the use of computers to translate from one language to another.
+-->
 
 <details>
   <summary class="session-summary">
     <span class="date-label">Nov 12</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Machine Translation</span>
+    <span class="session-title">Information extraction</span>
   </summary>
   <div markdown="1">
 - [Slides coming soon]
 - Readings coming soon
+
+<!--
 - [Speech and Language Processing, An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages-2025/machine_translation) Third Edition by Daniel Jurafsky, James H. Martin. 
     - Read Chapter 12 about Machine translation ..
         - Section 12.5 talks about Translation in low-resource situations, Summerize in one page some of the approaches for dealing with low resource translation.
         - Many issues in translating low-resource languages go beyond the purely technical, read about societal issues in section 12.5.3 and summerize problems and challenges faced when translating for low resource languages.
         - Machine translation raises many ethical issues, read section 12.7 of bias and ethical issues in machine translation.
 - [MENYO-20k: A Multi-domain English–Yor `ub´a Corpus for Machine Translation and Domain Adaptation](https://app.perusall.com/courses/training-computers-to-understand-african-languages/a_multi_domain_english_yoruba)
+-->
+
 </div>
 </details>
