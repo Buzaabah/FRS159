@@ -24,13 +24,16 @@ In this module we will have a sufficient overview of search and search engine.
 - [Slides coming soon]
 
 Related Readings
-    - [Read Chapter 13 about Machine Trsnlation and especially 13.5 Translating in low-resource situations](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/13-770412122?filter=all). 
-    - [Read Chapter 16 about Automatic Speech Recognition](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/chapter_16-182721316?filter=all)
-  
- <!-- 
-- [Odunayo et al., AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://aclanthology.org/2023.findings-emnlp.997.pdf) Read from abstract up to section 2.4 summarize in one page the paper.
-- [Practice data](https://github.com/Buzaabah/FRS159/blob/main/data/daily_princetonian.txt)
 
+- [Read Chapter 13 about Machine Trsnlation and especially 13.5 Translating in low-resource situations](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/13-770412122?filter=all). 
+
+- [Read Chapter 16 about Automatic Speech Recognition](https://app.perusall.com/courses/teaching-computers-to-understand-african-languages/chapter_16-182721316?filter=all)
+  
+
+<!-- 
+- [Odunayo et al., AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://aclanthology.org/2023.findings-emnlp.997.pdf) Read from abstract up to section 2.4 summarize in one page the paper.
+
+- [Practice data](https://github.com/Buzaabah/FRS159/blob/main/data/daily_princetonian.txt)
 -->
 
 </div>
