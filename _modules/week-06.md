@@ -33,13 +33,15 @@ We will visit the Princeton High-Performance Computing Research Center to explor
     <span class="date-label">Oct 08</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Visit to Princeton HPC </span>
-    <!--
-    <span class="session-title">Multilingual NLP and corpus annotation </span>
+   
     
   </summary>
-  <div markdown="1">
 
   <!--
+  <span class="session-title">Multilingual NLP and corpus annotation </span>
+  <div markdown="1">
+
+  
 
 - Readings
   - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), summerise in one paragraph what is annotation and why it is necessary.
@@ -65,9 +67,10 @@ We will visit the Princeton High-Performance Computing Research Center to explor
 2 and for which there is not a primary cultural center in another region.
 Donald Z. Osborn
 Bisharat, Ltd.
--->
+
 
 </div>
+-->
 </details>
 
 
