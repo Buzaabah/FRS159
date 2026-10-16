@@ -12,7 +12,7 @@ In this week we will discuss techniques for extracting semantic content from tex
   <summary class="session-summary">
     <span class="date-label">Oct 08</span>
     <span class="label label-red">Mid-term</span>
-    <span class="session-title">Due date of midterm paper</span>
+    <span class="session-title">Paper and Presentation</span>
   </summary>
   <div markdown="1">
 
