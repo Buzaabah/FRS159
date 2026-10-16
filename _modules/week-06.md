@@ -25,7 +25,7 @@ We will visit the Princeton High-Performance Computing Research Center to explor
 
 </div>
 </details>
-
+-->
 
 
 <details>
@@ -38,6 +38,8 @@ We will visit the Princeton High-Performance Computing Research Center to explor
     
   </summary>
   <div markdown="1">
+
+  <!--
 
 - Readings
   - Read about data annotation and data labeling through this [blog](https://toloka.ai/blog/annotation-vs-labeling/), summerise in one paragraph what is annotation and why it is necessary.
